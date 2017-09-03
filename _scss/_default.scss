@@ -10,7 +10,9 @@ $primary-color: #4848B4;
 $secondary-color: #4385C1;
 $text-color: #333;
 $link-color: #1b1b1b;
+$grey-color: #aaa;
 
+$font-xxl: 56px;
 $font-xl: 48px;
 $font-xmd: 36px;
 $font-md: 22px;
@@ -132,6 +134,7 @@ h2 {
     padding-top: 16px;
     padding-bottom: 16px;
     border-bottom: 1px solid #fff;
+    font-weight: 700;
 
     &:hover {
       border-bottom: 1px solid $primary-color;

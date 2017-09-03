@@ -88,7 +88,11 @@
   }
 
   &__number {
-
+    font-size: $font-xxl;
+    color: $grey-color;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
   }
 
   &__text {

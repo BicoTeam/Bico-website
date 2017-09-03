@@ -25,6 +25,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Add the Style
 - [x] Create navbar
 - [ ] Create footer
+- [ ] Improve fonts, sizes and colors
 - [ ] Build the FAQ page
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config files (pwa and jekyll) with domain names
