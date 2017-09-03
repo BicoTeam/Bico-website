@@ -1,6 +1,8 @@
 navigation:
   - name: Whitepaper
     url: /download/whitepaper.pdf
+  - name: About
+    url: "#about"
   - name: Talk to us
     url: "#contact"
 
@@ -14,18 +16,20 @@ home:
   book:
     title: The ultimate ICO guidebook
     description: Yeah, you read right, we are doing an ICO and we will teach you how to do one…from A to Z, all included, everything
-    button: Read the table of content
+    button: Read the table of content (should we ask for the email for that)
   how:
     title: What now?
-    description: We were trying to do an ICO for our project and we realised that there is not much information about how to do it right. There are not tutorials available, only a few blogposts that never go into details. We are a team of technical people and we like to make informed decissions and clear tasks. We decided to try an ICO ourselves and to write everything that we are going to experience on a book. We will be larning on the way and we hope you also want to learn with us. These are the steps we will follow.
+    description: We were trying to do another ICO for our project (that aims to help mother nature) and we realised that there is not much information about how to do it right. There are not tutorials available, only a few blogposts that never go into details.
+    We are a team of technical people and we like to make informed decissions and clear tasks.
+    We decided to try an ICO ourselves and to write everything that we are going to experience on a book.  Our ultimate goal is to learn how to do an ICO properly and not screw our true goal, which is to help out planting trees. We will be learning on the way and we hope you also want to learn with us. These are the steps we will follow.
     steps:
       - Investigate, learn, read, open and honest communication
       - Offer something in return for the invested money… maybe a comprehensive book? A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need
       - Send you the book as the return on your investment so you can safely and without obstacles do the ICO you need for your own project
-      - The book will be also available after the sale, so the project we'll keep growing afterwards.
-  future:
-    title: What’s in it for you?
-    description: Well, we wanted to do another ICO to help mother nature recover from the shit she has taken from us, but we don’t know how to do it so here we are Our ultimate goal is to learn how to do an ICO properly and not screw our true goal, which is to help out planting trees
+      - The book will be also available after the crowdsale, so the project will keep growing afterwards. Maybe translating this into a more valuable token.
+  tokens:
+    title: Tokens distribution:
+    description: Put here a table with the values of the tokens, how many are we launching, how many available on the sale, equivalencies to ethereum, bonus tokens info...
   team:
     title: The team
     members:
@@ -44,10 +48,6 @@ home:
         url: ...
       - name: Telegram
         url: ...
-  footer:
-    made: Made with love in Europe
-    copyright: © Bico.
-
 faq:
   categories:
     - name: About BICO
@@ -64,6 +64,12 @@ faq:
           answers: Think of BICO as a learning mechanism. Buying BICO will allow you to introduce you in the world of ICOs. Also we are the first token to not give you only tokens in return, but an actual product, the complete guide book, with step by step explanations, to help you invest in ICOs. Don't forget that we are also learning during the process, don't hesitate to ask us any questions.
         - question: What happens if we don't reach the threshold at the end of the crwodsale?
           answers: We won't be able to include in the book the future steps, like adding your token in exchange list, as we won't have the experienced required.
+    - name: The BICO book
+      questions:
+        - question: Why would I want this book?
+          answers: Because you have a lot of questions in this relatively new Ethereum and cryptocurrencies ecosystem, because you want a world where knowledge is evenly distributed and accesible, because you want to support us so we can all learn together.
+        - questions: I am paying for this book, I want it printed.
+          answers: We are in the 21st century. We are eco friendly.
     - name: Timeline
       questions:
         - question: When will BICO crowdsale start?
@@ -79,8 +85,8 @@ faq:
         - question: Why can’t I see the account I have just created in the blockchain explorer (e.g., Etherchain, Etherscan)?
           answer: Only active accounts are visible in a blockchain explorer. Once you have transferred some ETH into the  account, it should be visible.
         - question: How does MyEtherWallet actually work?
-          answer: "Please check this page: https://myetherwallet.groovehq.com/knowledge_base/topics/how-does-myetherwallet-actually-work"
-        - question: "I am trying to unlock my wallet but it keeps freezing / hanging"
-          answer: "Sorry you are having trouble. Decrypting the keystore files is an intensive process and doesn't enjoy being done in Javascript. We recommend: <br>1.Using Google Chrome.<br>2.Clicking \"continue\" when you see the unresponsive error alert pop up.\n3.Closing other intensive programs open (a lot of browser tabs, video games, etc.).<br>The combination of the above typically eliminates the problem. If it doesn't, please contact us and include your browser and OS so we can advise from there"
+          answer: Please check this page: https://myetherwallet.groovehq.com/knowledge_base/topics/how-does-myetherwallet-actually-work
+        - question: I am trying to unlock my wallet but it keeps freezing / hanging
+          answer: Sorry you are having trouble. Decrypting the keystore files is an intensive process and doesn't enjoy being done in Javascript. We recommend: \n1.Using Google Chrome.\n2.Clicking "continue" when you see the unresponsive error alert pop up.\n3.Closing other intensive programs open (a lot of browser tabs, video games, etc.).\nThe combination of the above typically eliminates the problem. If it doesn't, please contact us and include your browser and OS so we can advise from there
         - question: Why am I seeing two different versions of my Ethereum address--one with uppercase letters and one with lowercase letters?
           answer: Capitalization simply means the address has a checksum, which will detect input errors. Both addresses refer to the same wallet and are fully functional.\n The address containing lowercase letters is not checksummed. Mistyping a letter or number in this address can result in the loss of ETH. On the other hand, the upper case checksummed version of the address will detect typos and inform you of an invalid address.For this reason, MyEtherWallet warns you when your address is not checksummed. \nRemember to double check the address to prevent any issues.If you are sending ETH to one of your own wallets, you can save the checksummed address via the "View Wallet Info" page and copy the address displayed there.
