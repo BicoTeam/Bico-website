@@ -122,7 +122,6 @@
 
 
 .token {
-
   margin: 50px 0;
 
   &__name {
@@ -141,12 +140,27 @@
 }
 
 .team {
+  @include container($container-padding);
+  padding: $large-padding-vertical 0;
+  text-align: center;
+
   &__title {
 
   }
+
+  &__members {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
 }
 
+
+
 .member {
+  margin: 50px 0;
+
   &__photo {
 
   }

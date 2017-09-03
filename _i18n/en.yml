@@ -40,13 +40,15 @@ home:
     title: The team
     members:
       - name: Sandoche ADITTANE
-        src: /images/photos/sandoche.jpg
+        src: /assets/images/photos/sandoche.jpg
       - name: Patricia MAYO
-        src: /images/photos/patricia.jpg
+        src: /assets/images/photos/patricia.jpg
       - name: Paschalis TSOLAKIDIS
-        src: /images/photos/paschalis.jpg
+        src: /assets/images/photos/paschalis.jpg
       - name: Sofia CHARALAMPIDOU
-        src: /images/photos/paschalis.jpg
+        src: /assets/images/photos/paschalis.jpg
+      - name: Carlos BERNABEU JUAN
+        src: /assets/images/photos/paschalis.jpg
   contact:
     title: Talk to us
     network:
