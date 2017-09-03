@@ -41,21 +41,28 @@ layout: default
   </div>
 </section>
 
-<section class="token">
+<section class="tokens">
   <div class="container">
-    <h2 class="token__title">{% t home.tokens.title %}</h2>
-    <p class="token__description">{% t home.tokens.description %}</p>
+    <h2 class="tokens__title">{% t home.tokens.title %}</h2>
+    {% for token in site.translations[site.lang].home.tokens.content %}
+    <div class="token">
+      <p class="token__value">{{ token.value }}</p>
+      <h3 class="token__name">{{ token.name }}</h3>
+    </div>
+    {% endfor %}
   </div>
 </section>
 
 <section class="team">
   <h2 class="team__title">{% t home.team.title %}</h2>
-  {% for member in site.translations[site.lang].home.team.members %}
-  <div class="member">
-    <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}">
-    <p class="member__name">{{ member.name }}</p>
+  <div class="members">
+    {% for member in site.translations[site.lang].home.team.members %}
+    <div class="member">
+      <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}">
+      <p class="member__name">{{ member.name }}</p>
+    </div>
+    {% endfor %}
   </div>
-  {% endfor %}
 </section>
 
 <section class="contact" id="contact">
