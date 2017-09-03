@@ -19,16 +19,14 @@ home:
     button: Read the table of content (should we ask for the email for that)
   how:
     title: What now?
-    description: We were trying to do another ICO for our project (that aims to help mother nature) and we realised that there is not much information about how to do it right. There are not tutorials available, only a few blogposts that never go into details.
-    We are a team of technical people and we like to make informed decissions and clear tasks.
-    We decided to try an ICO ourselves and to write everything that we are going to experience on a book.  Our ultimate goal is to learn how to do an ICO properly and not screw our true goal, which is to help out planting trees. We will be learning on the way and we hope you also want to learn with us. These are the steps we will follow.
+    description: We were trying to do another ICO for our project (that aims to help mother nature) and we realised that there is not much information about how to do it right. There are not tutorials available, only a few blogposts that never go into details. We are a team of technical people and we like to make informed decissions and clear tasks. We decided to try an ICO ourselves and to write everything that we are going to experience on a book.  Our ultimate goal is to learn how to do an ICO properly and not screw our true goal, which is to help out planting trees. We will be learning on the way and we hope you also want to learn with us. These are the steps we will follow.
     steps:
       - Investigate, learn, read, open and honest communication
       - Offer something in return for the invested money… maybe a comprehensive book? A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need
       - Send you the book as the return on your investment so you can safely and without obstacles do the ICO you need for your own project
       - The book will be also available after the crowdsale, so the project will keep growing afterwards. Maybe translating this into a more valuable token.
   tokens:
-    title: Tokens distribution:
+    title: Tokens distribution
     description: Put here a table with the values of the tokens, how many are we launching, how many available on the sale, equivalencies to ethereum, bonus tokens info...
   team:
     title: The team
