@@ -7,13 +7,13 @@ const WebpackPwaManifest = require('webpack-pwa-manifest');
 module.exports = Merge(ProdConfig, {
   plugins: [
     new WebpackPwaManifest({
-      name: 'Super-website',
-      short_name: 'Super PWA',
-      description: 'A super website made with love',
+      name: 'Bico',
+      short_name: 'Bico',
+      description: 'Everything you need for a successful ICO in the first ICO funded book',
       orientation: "portrait",
       display: "standalone",
       start_url: ".",
-      background_color: '#ffffff',
+      background_color: '#4848B4',
       icons: [
         {
           src: path.resolve('icon.png'),
