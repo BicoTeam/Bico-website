@@ -1,5 +1,48 @@
-headline: Your beautiful headline
+navigation:
+  - name: Whitepaper
+    url: /download/whitepaper.pdf
+  - name: About
+    url: "#about"
+  - name: Talk to us
+    url: "#contact"
 
-call_to_action:
-  title: Check out our blog
-  link: /blog
+home:
+  header:
+    headline: Everything you need for a successful ICO in the first ICO funded book
+    counter: The token sales start the 10th of November 2017
+    register: Register now
+    email_placeholder: Send us your email we will notify you
+    button: Subscribe
+  book:
+    title: The ultimate ICO guidebook
+    description: Yeah, you read right, we will do an ICO and teach you how to do one…from A to Z, all included, everything
+    button: Read the table of content (should we ask for the email for that)
+  how:
+    title: What now?
+    description: We want to do it properly so what we have in mind is the following
+    steps:
+      - Investigate and Learn
+      - Offer something in return for the invested money… maybe a comprehensive book?
+      - Yes! A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need
+      - Send you the book as the return on your investment so you can safely and with out obstacles do the ICO you always dreamed of, the one that will take you to the next level...
+  future:
+    title: What’s in it for you?
+    description: Well, we wanted to do another ICO to help mother nature recover from the shit she has taken from us, but we don’t know how to do it so here we are Our ultimate goal is to learn how to do an ICO properly and not screw our true goal, which is to help out planting trees
+  team:
+    title: The team
+    members:
+      - name: Sandoche ADITTANE
+        src: /images/photos/sandoche.jpg
+  contact:
+    title: Talk to us
+    network:
+      - name: Slack
+        url: ...
+      - name: Telegram
+        url: ...
+faq:
+  categories:
+    - name: test
+      questions:
+        - question: hello?
+          response: world
