@@ -3,14 +3,14 @@
 $container-width: 1200px;
 $container-padding: 30px;
 
-$primary-color: #C8385A;
+$primary-color: #4848B4;
 $text-color: #333;
-$link-color: #7F7F7F;
+$link-color: #1b1b1b;
 
 $font-xl: 58px;
 $font-md: 22px;
-$font-sm: 18px;
-$font-xs: 16px;
+$font-sm: 16px;
+$font-xs: 14px;
 
 
 // Mixin
@@ -78,10 +78,9 @@ a {
   justify-content: space-between;
   align-items: center;
 
-  margin-top: 10px;
+  margin-top: 20px;
 
   padding-bottom: 10px;
-  border-bottom: 1px solid lighten($link-color, 40%);
 
   &__branding {
       display: flex;
@@ -91,7 +90,7 @@ a {
   &__title {
     color: $text-color !important;
     font-size: $font-md;
-    font-weight: 500;
+    font-weight: 900;
   }
 
   &__logo {
@@ -99,8 +98,8 @@ a {
   }
 
   &__logo-img {
-    height: 40px;
-    width: 40px;
+    height: 60px;
+    width: 60px;
   }
 
   &__links {
@@ -111,26 +110,13 @@ a {
   &__link {
     margin-left: 30px;
     font-size: $font-xs;
-  }
+    padding-top: 16px;
+    padding-bottom: 16px;
+    border-bottom: 1px solid #fff;
 
-}
-
-.home {
-
-  @include container($container-padding);
-
-  height: 65vh;
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-
-
-  &__headline-container {
-    padding: 0 $container-padding * 3;
-  }
-
-  &__headline {
-    font-size: $font-xl;
+    &:hover {
+      border-bottom: 1px solid $primary-color;
+    }
   }
 
 }

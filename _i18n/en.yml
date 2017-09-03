@@ -1,8 +1,6 @@
-.navigation:
+navigation:
   - name: Whitepaper
     url: /download/whitepaper.pdf
-  - name: About
-    url: "#about"
   - name: Talk to us
     url: "#contact"
 

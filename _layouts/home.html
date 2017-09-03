@@ -49,7 +49,7 @@ layout: default
   {% endfor %}
 </section>
 
-<section class="contact">
+<section class="contact" id="contact">
   <h2 class="contact__title">{% t home.contact.title %}</h2>
   {% for network in site.translations[site.lang].home.contact.network %}
   <a href="{{ network.url }}">{{ network.name }}</a>

@@ -16,5 +16,8 @@
             {% endif %}
           {% endfor %}
       {% endif %}
+      {% for link in site.translations[site.lang].navigation %}
+          <a class="navigation__link" href="{{ link.url }}">{{ link.name }}</a>
+      {% endfor %}
     </div>
 </nav>
