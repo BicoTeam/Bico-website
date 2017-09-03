@@ -7,7 +7,7 @@ $primary-color: #4848B4;
 $text-color: #333;
 $link-color: #1b1b1b;
 
-$font-xl: 58px;
+$font-xl: 48px;
 $font-md: 22px;
 $font-sm: 16px;
 $font-xs: 14px;
@@ -45,6 +45,10 @@ a {
   &:hover {
     color: $primary-color;
   }
+}
+
+h1 {
+  font-size: $font-xl;
 }
 
 

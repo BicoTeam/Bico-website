@@ -1,6 +1,19 @@
 .header {
-  &__text {
+  @include container($container-padding);
 
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+
+  &__text {
+    flex: 2;
+    padding-left: 90px;
+    padding-top: 50px;
+  }
+
+  &__illustration {
+    flex: 1;
   }
 
   &__uvp {
@@ -8,10 +21,6 @@
   }
 
   &__form {
-
-  }
-
-  &__illustration {
 
   }
 }
@@ -84,6 +93,6 @@
 
 .contact {
   &__title {
-    
+
   }
 }
