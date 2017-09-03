@@ -28,6 +28,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Build the FAQ page
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config files (pwa and jekyll) with domain names
+- [ ] Remove useless code
 - [ ] Add https
 - [ ] Add animations
 - [ ] Deploy
