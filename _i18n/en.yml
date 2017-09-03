@@ -44,10 +44,12 @@ home:
   contact:
     title: Talk to us
     network:
+      - name: Facebook
+        url: https://www.facebook.com/bicotoken/
       - name: Slack
-        url: ...
-      - name: Telegram
-        url: ...
+        url: https://join.slack.com/t/bicotoken/shared_invite/MjM1MDk4NDY1NjY1LTE1MDQ0NTAyMTItZWZjNDkwYzIyOA
+      - name: Twitter
+        url: https://twitter.com/BicoTeam
 faq:
   categories:
     - name: About BICO
