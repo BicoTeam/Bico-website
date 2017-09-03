@@ -30,6 +30,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config files (pwa and jekyll) with domain names
 - [ ] Remove useless code
-- [ ] Add https
 - [ ] Add animations
+- [ ] Make it responsive
+- [ ] Add https
 - [ ] Deploy
