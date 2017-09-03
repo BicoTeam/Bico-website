@@ -68,10 +68,11 @@
 
   &__title {
     flex: 1;
+    padding-right: $gutter;
   }
 
   &__description {
-    flex: 2;
+    flex: 3;
     margin: 0;
   }
 }
