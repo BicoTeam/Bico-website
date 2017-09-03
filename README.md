@@ -33,6 +33,5 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Add animations
 - [ ] Make it responsive
 - [ ] Fix doorbell
-- [ ] Sanitize the text
 - [ ] Add https
 - [ ] Deploy

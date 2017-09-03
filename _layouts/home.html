@@ -44,12 +44,14 @@ layout: default
 <section class="tokens">
   <div class="container">
     <h2 class="tokens__title">{% t home.tokens.title %}</h2>
-    {% for token in site.translations[site.lang].home.tokens.content %}
-    <div class="token">
-      <p class="token__value">{{ token.value }}</p>
-      <h3 class="token__name">{{ token.name }}</h3>
+    <div class="tokens__content">
+      {% for token in site.translations[site.lang].home.tokens.content %}
+      <div class="token">
+        <p class="token__value">{{ token.value }}</p>
+        <h3 class="token__name">{{ token.name }}</h3>
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </section>
 

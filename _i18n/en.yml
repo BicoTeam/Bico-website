@@ -33,9 +33,9 @@ home:
       - name: Maximum token in regulation
         value: 555
       - name: Per token in Pre-Sale
-        value: 555 ETHER
+        value: 555<br>ETHER
       - name: Per token
-        value: 555 ETHER
+        value: 555<br>ETHER
   team:
     title: The team
     members:

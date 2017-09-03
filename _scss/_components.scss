@@ -104,6 +104,12 @@
   text-align: center;
   background-color: #eee;
 
+  &__content {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
 
   &__title {
 
@@ -116,7 +122,22 @@
 
 
 .token {
-  
+
+  margin: 50px 0;
+
+  &__name {
+    font-size: $font-md;
+    margin: 0;
+    padding: 0;
+    font-weight: 300;
+  }
+
+  &__value {
+    font-size: $font-xxl;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
+  }
 }
 
 .team {
