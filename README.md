@@ -27,4 +27,5 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config file with domain names
 - [ ] Add https
+- [ ] Add animations
 - [ ] Deploy

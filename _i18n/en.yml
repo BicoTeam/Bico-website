@@ -1,4 +1,4 @@
-navigation:
+.navigation:
   - name: Whitepaper
     url: /download/whitepaper.pdf
   - name: About
@@ -44,6 +44,9 @@ home:
         url: ...
       - name: Telegram
         url: ...
+  footer:
+    made: Made with love in Europe
+    copyright: © Bico.
 faq:
   categories:
     - name: About BICO
