@@ -27,14 +27,18 @@ layout: default
 </section>
 
 <section class="how">
-  <h2 class="how__title">{% t home.how.title %}</h2>
-  <p class="how__description">{% t home.how.description %}</p>
-  {% for step in site.translations[site.lang].home.how.steps %}
-  <div class="step">
-    <p class="step__number">{{ forloop.index }}</p>
-    <p class="step__text">{{ step }}</p>
+  <div class="how__row">
+    <h2 class="how__title">{% t home.how.title %}</h2>
+    <p class="how__description">{% t home.how.description %}</p>
   </div>
-  {% endfor %}
+  <div class="how__row">
+    {% for step in site.translations[site.lang].home.how.steps %}
+    <div class="step">
+      <p class="step__number">{{ forloop.index }}</p>
+      <p class="step__text">{{ step }}</p>
+    </div>
+    {% endfor %}
+  </div>
 </section>
 
 <section class="future">

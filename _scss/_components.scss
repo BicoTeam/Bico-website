@@ -40,7 +40,7 @@
   text-align: center;
   background-color: $secondary-color;
   color: #fff;
-  padding: $large-padding 0;
+  padding: $large-padding-vertical 0;
 
   &__title {
 
@@ -56,16 +56,37 @@
 }
 
 .how {
-  &__title {
+  @include container($container-padding);
+  padding: $large-padding-vertical 0;
 
+  &__row {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: top;
+  }
+
+  &__title {
+    flex: 1;
   }
 
   &__description {
-
+    flex: 2;
+    margin: 0;
   }
 }
 
 .step {
+
+  margin-top: $large-padding-vertical;
+  flex: 1;
+
+  padding-right: $gutter;
+
+  &:last-of-type {
+    padding-right: 0;
+  }
+
   &__number {
 
   }
