@@ -31,8 +31,8 @@ ampdir: amp
 #webmaster_verifications:
 #  google: verification_code
 #google_analytics: id
-#doorbell: appKey
-#cookie_consent: true
+doorbell: gNPcVwNLbPsu696OYfSe689CSkN21pZwamPT3pxGgBhKoUsLSHmQS6Yp9Bo9Vmqj
+cookie_consent: true
 
 ### Build settings
 markdown: kramdown
