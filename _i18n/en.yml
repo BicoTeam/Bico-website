@@ -30,12 +30,12 @@ home:
     content:
       - name: BICO
         value: //image
-      - name: Maximum token in regulation
+      - name: Maximum token<br>in regulation
         value: 555
       - name: Per token in Pre-Sale
-        value: 555<br>ETHER
+        value: 555<br>ETH
       - name: Per token
-        value: 555<br>ETHER
+        value: 555<br>ETH
   team:
     title: The team
     members:
