@@ -22,9 +22,11 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 ## To do
 - [x] Create information architecture
 - [x] Build the theme structure with content
-- [ ] Add the Style
+- [x] Add the Style
 - [x] Create navbar
-- [ ] Create footer
+- [x] Create footer
+- [ ] Add social icons
+- [ ] Add smoothscroll
 - [ ] Improve fonts, sizes and colors
 - [ ] Build the FAQ page
 - [ ] Add doorbell, analytics, mailchimp

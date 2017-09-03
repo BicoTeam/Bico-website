@@ -1,5 +1,22 @@
 <footer class="footer">
   <div class="footer__container">
+    <div class="footer__love">
       Made with <span class="accent">❤</span>
+    </div>
+    <div class="footer__links">
+      {% if page_paths %}
+          {% for path in page_paths %}
+            {% assign my_page = site.pages | where: "path", path | first %}
+            {% if my_page.title %}
+              {% unless my_page.url contains site.ampdir %}
+                <a class="footer__link" href="{{ my_page.url | relative_url }}">{{ my_page.title | escape }}</a>
+              {% endunless %}
+            {% endif %}
+          {% endfor %}
+      {% endif %}
+      {% for link in site.translations[site.lang].navigation %}
+          <a class="footer__link" href="{{ link.url }}">{{ link.name }}</a>
+      {% endfor %}
+    </div>
   </div>
 </footer>
