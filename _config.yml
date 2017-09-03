@@ -3,9 +3,9 @@
 # This config file contains the config of your webpages
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
-title: Super-website
+title: Bico
 email: your-email@example.com
-description: A super website made with love
+description:  Everything you need for a successful ICO in the first ICO funded book
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#c0ffee'

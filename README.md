@@ -24,5 +24,6 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Build the theme structure with content
 - [ ] Add the Style
 - [ ] Add doorbell, analytics, mailchimp
+- [ ] Update the config file with domain names
 - [ ] Add https
 - [ ] Deploy
