@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: faq
 title: Frequently Asked Questions
 permalink: /faq/
 ---
-
-{% translate_file faq.md %}

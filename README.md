@@ -23,6 +23,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [ ] Create information architecture
 - [ ] Build the theme structure with content
 - [ ] Add the Style
+- [ ] Build the FAQ page
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config file with domain names
 - [ ] Add https
