@@ -2,9 +2,56 @@
 layout: default
 ---
 
-<div class="home">
-  <div class="home__headline-container">
-    <h1 class="home__headline">{% t headline %}</h1>
-    <a class="button home__cta" href="{% t call_to_action.link %}">{% t call_to_action.title %}</a>
+<header class="header">
+  <div class="header__text">
+    <h1 class="header__uvp">{% t home.header.headline %}</h1>
+    <div class="countdown">
+      <p class="countdown__text">{% t home.header.counter %}</p>
+    </div>
+    <div class="header__form">
+      // subscribe form here
+    </div>
   </div>
-</div>
+  <div class="header__illustration">
+    // illustration here
+  </div>
+</header>
+
+<section class="book">
+  <h2 class="book__title">{% t home.book.title %}</h2>
+  <p class="book__description">{% t home.book.description %}</p>
+  <a href="#" class="book__button">{% t home.book.button %}</a>
+</selection>
+
+<section class="how">
+  <h2 class="how__title">{% t home.how.title %}</h2>
+  <p class="how__description">{% t home.how.description %}</p>
+  {% for step in site.translations[site.lang].home.how.steps %}
+  <div class="step">
+    <p class="step__number">{{ forloop.index }}</p>
+    <p class="step__text">{{ step }}</p>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="future">
+  <h2 class="future__title">{% t home.future.title %}</h2>
+  <p class="future__description">{% t home.future.description %}</p>
+</section>
+
+<section class="team">
+  <h2 class="team__title">{% t home.team.title %}</h2>
+  {% for member in site.translations[site.lang].home.team.members %}
+  <div class="member">
+    <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}">
+    <p class="member__name">{{ member.name }}</p>
+  </div>
+  {% endfor %}
+</section>
+
+<section class="contact">
+  <h2 class="contact__title">{% t home.contact.title %}</h2>
+  {% for network in site.translations[site.lang].home.contact.network %}
+  <a href="{{ network.url }}">{{ network.name }}</a>
+  {% endfor %}
+</section>

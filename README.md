@@ -20,12 +20,14 @@ yarn build:pwa
 If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 
 ## To do
-- [ ] Create information architecture
-- [ ] Build the theme structure with content
+- [x] Create information architecture
+- [x] Build the theme structure with content
 - [ ] Add the Style
+- [ ] Create navbar
+- [ ] Create footer
 - [ ] Build the FAQ page
 - [ ] Add doorbell, analytics, mailchimp
-- [ ] Update the config file with domain names
+- [ ] Update the config files (pwa and jekyll) with domain names
 - [ ] Add https
 - [ ] Add animations
 - [ ] Deploy
