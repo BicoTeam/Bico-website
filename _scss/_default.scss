@@ -79,18 +79,65 @@ h2 {
 }
 
 
+input[type="email"] {
+  display: block;
+  margin: 0;
+  width: 100%;
+  font-family: $font-family-primary;
+  font-size: 18px;
+  -webkit-appearance: none;
+  -moz-appearance: none;
+  appearance: none;
+  -webkit-box-shadow: none;
+  -moz-box-shadow: none;
+  box-shadow: none;
+  -webkit-border-radius: none;
+  -moz-border-radius: none;
+  -ms-border-radius: none;
+  -o-border-radius: none;
+  border-radius: none;
+  padding: 10px;
+  border: solid 1px gainsboro;
+  -webkit-transition: box-shadow 0.3s, border 0.3s;
+  -moz-transition: box-shadow 0.3s, border 0.3s;
+  -o-transition: box-shadow 0.3s, border 0.3s;
+  transition: box-shadow 0.3s, border 0.3s;
+	background: #fff;
+  height: 35px;
+  margin-top: 1px;
+}
+input[type="email"]:focus {
+  outline: none;
+  border: solid 1px $primary-color;
+  box-shadow: 0 0 1px 1px $primary-color;
+}
+
 // Shared
 
 .button {
   display: inline-block;
-  border: 1px solid #fff;
-  border-radius: 50px;
   padding: 15px 30px;
   font-weight: 300;
-  background-color: rgba(255,255,255,0.1);
+
+  cursor: pointer;
 
   &:hover {
     background-color: rgba(255,255,255,0.9);
+  }
+
+  &--primary {
+    border: 2px solid $primary-color;
+    color: #fff;
+    background-color: $primary-color;
+
+    &:hover {
+      border: 2px solid darken($primary-color, 20%);
+      background-color: darken($primary-color, 20%);
+    }
+  }
+
+  &--secondary {
+
   }
 }
 
@@ -100,6 +147,17 @@ h2 {
 
 .container {
     @include container($container-padding + $large-padding);
+}
+
+#mc_embed_signup_scroll {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: center;
+}
+
+.mc-field-group {
+  flex: 1;
 }
 
 // Components & pages

@@ -10,7 +10,10 @@ layout: default
       <p class="countdown__text">{% t home.header.counter %}</p>
     </div>
     <div class="header__form">
-      // subscribe form here
+      {% include mailchimp.html %}
+      <div class="header__register">
+        {% t home.header.register %}
+      </div>
     </div>
   </div>
   <div class="header__illustration">
