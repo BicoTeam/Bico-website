@@ -17,7 +17,7 @@ layout: default
     </div>
   </div>
   <div class="header__illustration">
-    <img src="/assets/images/book.png" class="header__image" alt="">
+    <img src="/assets/images/book.png" class="header__image" alt="" data-tilt data-tilt-glare data-tilt-max-glare="0.8" data-tilt-scale="1.1">
   </div>
 </header>
 
@@ -62,7 +62,7 @@ layout: default
   <h2 class="team__title">{% t home.team.title %}</h2>
   <div class="team__members">
     {% for member in site.translations[site.lang].home.team.members %}
-    <div class="member">
+    <div class="member" data-tilt data-tilt-glare data-tilt-max-glare="0.8">
       <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}">
       <p class="member__name">{{ member.name }}</p>
     </div>

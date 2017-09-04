@@ -1,6 +1,8 @@
 // JS imports
 import VanillaModal from 'vanilla-modal';
 import SmoothScroll from 'smooth-scroll';
+import ScrollReveal from 'scrollreveal';
+import 'vanilla-tilt';
 
 // CSS and SASS files
 import './index.scss';
