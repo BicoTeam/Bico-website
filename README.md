@@ -29,7 +29,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Improve fonts, sizes and colors
 - [x] Add book illustration
 - [x] Add last missing elements
-- [ ] Build the FAQ page
+- [x] Build the FAQ page
 - [ ] Add social icons
 - [ ] Add smoothscroll
 - [ ] Add effects and animations
