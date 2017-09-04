@@ -27,9 +27,9 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Create footer
 - [x] Fix line spacing
 - [x] Improve fonts, sizes and colors
-- [ ] Add book illustration
-- [ ] Add social icons
+- [x] Add book illustration
 - [ ] Add last missing elements
+- [ ] Add social icons
 - [ ] Add smoothscroll
 - [ ] Add effects and animations
 - [ ] Add doorbell, analytics, mailchimp

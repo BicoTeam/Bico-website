@@ -3,7 +3,7 @@
 $font-family-primary: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 $font-family-secondary: 'Montserrat', -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
 
-$container-width: 1400px;
+$container-width: 1270px;
 $container-padding: 30px;
 $large-padding: 90px;
 $large-padding-vertical: 150px;
@@ -63,6 +63,8 @@ a {
 
 h1, h2 {
   font-family: $font-family-secondary;
+  padding: 0;
+  margin: 0;
 }
 
 h1 {
