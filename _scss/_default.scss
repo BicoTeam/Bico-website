@@ -15,7 +15,6 @@ $third-color:  #39CCCC;
 $text-color: #333;
 $link-color: #1b1b1b;
 $grey-color: #aaa;
-$light-grey-color: #F1F1F1;
 
 $font-xxl: 72px;
 $font-xl: 56px;
@@ -247,11 +246,19 @@ h2 {
 
 .footer {
 
-  background-color: $light-grey-color;
+  background-color: $primary-color;
+  color: #fff !important;
+
+  a {
+    color: #fff;
+
+    &:hover {
+      color: #ccc;
+    }
+  }
 
   &__container {
     @include container($container-padding);
-    color: $link-color;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -263,4 +270,8 @@ h2 {
     font-weight: 500;
     margin-left: 20px;
   }
+}
+
+.love {
+  color: #FF4136;
 }

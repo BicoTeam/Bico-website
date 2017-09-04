@@ -25,15 +25,17 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add the Style
 - [x] Create navbar
 - [x] Create footer
+- [x] Fix line spacing
+- [x] Improve fonts, sizes and colors
+- [ ] Add book illustration
 - [ ] Add social icons
+- [ ] Add last missing elements
 - [ ] Add smoothscroll
-- [ ] Fix line spacing
-- [ ] Improve fonts, sizes and colors
-- [ ] Build the FAQ page
+- [ ] Add effects and animations
 - [ ] Add doorbell, analytics, mailchimp
+- [ ] Build the FAQ page
 - [ ] Update the config files (pwa and jekyll) with domain names
 - [ ] Remove useless code
-- [ ] Add animations
 - [ ] Make it responsive
 - [ ] Fix doorbell
 - [ ] Add https
