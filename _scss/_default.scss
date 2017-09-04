@@ -137,7 +137,15 @@ input[type="email"]:focus {
   }
 
   &--secondary {
+    border: 2px solid #fff;
+    color: #fff;
+    background-color: rgba(255,255,255,0);
 
+    &:hover {
+      border: 2px solid #fff;
+      color: $secondary-color;
+      background-color: rgba(255,255,255,1);
+    }
   }
 }
 
