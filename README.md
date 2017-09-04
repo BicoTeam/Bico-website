@@ -36,10 +36,10 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add token distribution section
 - [x] Add doorbell, analytics, mailchimp
 - [x] Fix doorbell
+- [x] Update the book design and add BICO logo
 - [ ] Fix the bug with the book
 - [ ] Make it responsive
 - [ ] Update the config files (pwa and jekyll) with domain names
-- [ ] Update the book design and add BICO logo
 - [ ] Remove useless code
 - [ ] Update all data
 - [ ] Add https
