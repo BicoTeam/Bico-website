@@ -32,7 +32,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Build the FAQ page
 - [x] Add social icons
 - [x] Add smoothscroll
-- [ ] Add effects and animations
+- [x] Add effects and animations
 - [ ] Add token distribution section
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config files (pwa and jekyll) with domain names

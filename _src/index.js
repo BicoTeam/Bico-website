@@ -26,3 +26,12 @@ const options = {
 };
 const modal = new VanillaModal(options);
 const scroll = new SmoothScroll('a[href*="#"]');
+
+window.sr = ScrollReveal({ viewOffset: { top: 0, right: 0, bottom: 100, left: 0 }, delay: 200 });
+sr.reveal('.book__title');
+sr.reveal('.book__description');
+sr.reveal('.how__row');
+sr.reveal('.step', { duration: 500 }, 200);
+sr.reveal('.tokens__title');
+sr.reveal('.token', { duration: 500 }, 200);
+sr.reveal('.team');
