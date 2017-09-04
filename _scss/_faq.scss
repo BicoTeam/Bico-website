@@ -1,10 +1,11 @@
 .faq {
   &__category {
-    margin-bottom: 60px;
+    margin-bottom: 120px;
   }
 
   &__qa {
-    margin-bottom: 30px;
+    margin-bottom: 50px;
+    max-width: 800px;
   }
 
   &__q {
@@ -12,6 +13,10 @@
   }
 
   &__a {
+
+  }
+
+  &__content {
 
   }
 }

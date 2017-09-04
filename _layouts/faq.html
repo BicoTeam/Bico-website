@@ -7,18 +7,18 @@ layout: default
     <h1 class="page__title">{{ page.title | escape }}</h1>
   </header>
 
-  <div class="page__content">
+  <div class="page__content faq__content">
     {% for category in site.translations[site.lang].faq.categories %}
     <div class="faq__category">
       <h2>{{ category.name }}</h2>
-        {% for item in category.questions %}
-        <div class="faq__qa">
-          <p class="faq__q">{{ item.question }}</p>
-          <p class="faq__a">{{ item.answer }}</p>
-        </div>
-        {% endfor %}
+      {% for item in category.questions %}
+      <div class="faq__qa">
+        <p class="faq__q">{{ item.question }}</p>
+        <p class="faq__a">{{ item.answer }}</p>
+      </div>
       {% endfor %}
     </div>
+    {% endfor %}
   </div>
 
 </article>
