@@ -6,13 +6,13 @@
   justify-content: space-between;
   align-items: center;
 
-  padding-top: 40px;
-  padding-bottom: 100px;
+  padding-top: 80px;
+  padding-bottom: 180px;
 
   &__text {
     flex: 2;
-    padding-left: $large-padding;
     padding-top: 50px;
+    padding-left: $large-padding;
   }
 
   &__illustration {
@@ -21,6 +21,10 @@
   }
 
   &__uvp {
+  }
+
+  &__subline {
+      font-size: $font-xmd;
   }
 
   &__form {
@@ -88,8 +92,9 @@
   }
 
   &__number {
-    font-size: $font-xxl;
-    color: $grey-color;
+    border-top: 8px solid $third-color;
+    font-size: $font-xl;
+    color: $third-color;
     margin: 0;
     padding: 0;
     font-weight: 900;

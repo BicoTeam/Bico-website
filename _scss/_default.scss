@@ -1,19 +1,24 @@
 // Variables
 
-$container-width: 1200px;
+$font-family-primary: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+$font-family-secondary: 'Montserrat', -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen-Sans,Ubuntu,Cantarell,"Helvetica Neue",sans-serif;
+
+$container-width: 1400px;
 $container-padding: 30px;
 $large-padding: 90px;
 $large-padding-vertical: 150px;
 $gutter: 30px;
 
 $primary-color: #4848B4;
-$secondary-color: #4385C1;
+$secondary-color: #2ECC40;
+$third-color:  #39CCCC;
 $text-color: #333;
 $link-color: #1b1b1b;
 $grey-color: #aaa;
+$light-grey-color: #F1F1F1;
 
-$font-xxl: 56px;
-$font-xl: 48px;
+$font-xxl: 72px;
+$font-xl: 56px;
 $font-xmd: 36px;
 $font-md: 22px;
 $font-body: 20px;
@@ -33,12 +38,11 @@ $font-xs: 14px;
 // Global
 
 body {
-  font-family: Helvetica, Arial, sans-serif;
+  font-family: $font-family-primary;
   color: $text-color;
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  border-top: 3px solid $primary-color;
   font-size: $font-body;
   line-height: 1.5;
 }
@@ -58,8 +62,14 @@ a {
   }
 }
 
+h1, h2 {
+  font-family: $font-family-secondary;
+}
+
 h1 {
-  font-size: $font-xl;
+  font-size: $font-xxl;
+  font-weight: 700;
+  line-height: 1;
 }
 
 h2 {
@@ -236,6 +246,9 @@ h2 {
 
 
 .footer {
+
+  background-color: $light-grey-color;
+
   &__container {
     @include container($container-padding);
     color: $link-color;

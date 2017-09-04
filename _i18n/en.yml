@@ -8,7 +8,8 @@ navigation:
 
 home:
   header:
-    headline: Everything you need for a successful ICO in the world's first ICO funded book
+    headline: The world's first ICO funded book
+    subline: We are making this ICO to learn from it, and then explain you how to organize a successful ICO in this book
     counter: The token sales start the 10th of October 2017
     register: Register now to get the latest news, to protect yourself from hackers and to get exclusive entrance to the Pre-Sale event.
     email_placeholder: Send us your email
