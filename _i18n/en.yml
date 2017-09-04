@@ -64,31 +64,31 @@ faq:
     - name: About BICO
       questions:
         - question: What can I do with BICO?
-          answers: BICO is a standard ERC20 token. You can hold it and transfer it
+          answer: BICO is a standard ERC20 token. You can hold it and transfer it
         - question: Will BICO be traded on any exchanges?
-          answers: If everything goes as planned it should.
+          answer: If everything goes as planned it should.
         - question: How many BICO tokens will be available in the crowdsale and how many are created in total?
-          answers: We don't know yet
+          answer: We don't know yet
         - question: How can I participate in the crowdsale with ETH?
-          answers: 1. Buy ETH on a cryptocurrency exchange, unless already owned.\n2. Transfer ETH to My Ether Wallet.\n3. Send a deposit to the payment address following the instructions on...
+          answer: 1. Buy ETH on a cryptocurrency exchange, unless already owned.\n2. Transfer ETH to My Ether Wallet.\n3. Send a deposit to the payment address following the instructions on...
         - question: Why should I get BICO tokens in the first place?
-          answers: Think of BICO as a learning mechanism. Buying BICO will allow you to introduce you in the world of ICOs. Also we are the first token to not give you only tokens in return, but an actual product, the complete guide book, with step by step explanations, to help you invest in ICOs. Don't forget that we are also learning during the process, don't hesitate to ask us any questions.
+          answer: Think of BICO as a learning mechanism. Buying BICO will allow you to introduce you in the world of ICOs. Also we are the first token to not give you only tokens in return, but an actual product, the complete guide book, with step by step explanations, to help you invest in ICOs. Don't forget that we are also learning during the process, don't hesitate to ask us any questions.
         - question: What happens if we don't reach the threshold at the end of the crwodsale?
-          answers: We won't be able to include in the book the future steps, like adding your token in exchange list, as we won't have the experienced required.
+          answer: We won't be able to include in the book the future steps, like adding your token in exchange list, as we won't have the experienced required.
     - name: The BICO book
       questions:
         - question: Why would I want this book?
-          answers: Because you have a lot of questions in this relatively new Ethereum and cryptocurrencies ecosystem, because you want a world where knowledge is evenly distributed and accesible, because you want to support us so we can all learn together.
+          answer: Because you have a lot of questions in this relatively new Ethereum and cryptocurrencies ecosystem, because you want a world where knowledge is evenly distributed and accesible, because you want to support us so we can all learn together.
         - questions: I am paying for this book, I want it printed.
-          answers: We are in the 21st century. We are eco friendly.
+          answer: We are in the 21st century. We are eco friendly.
     - name: Timeline
       questions:
         - question: When will BICO crowdsale start?
-          answers: The ICO launches at noon 00:00 UTC on 10th of October, 2017 and closes 1t 00:00 UTC on 10th of November
+          answer: The ICO launches at noon 00:00 UTC on 10th of October, 2017 and closes 1t 00:00 UTC on 10th of November
         - question: Will you have a Pre-Sale? When will it be?
-          answers: Yes there will be a Pre-Sale in the previous days before the ICO. The exact date will be noticed only via newsletter to the people who has subscribed. During the Pre-Sale you will be able to get extra bonus tokens.
+          answer: Yes there will be a Pre-Sale in the previous days before the ICO. The exact date will be noticed only via newsletter to the people who has subscribed. During the Pre-Sale you will be able to get extra bonus tokens.
         - question: Why not to publish the Pre-Sale date?
-          answers: We are trying to avoid Hackers and Scammers. Also we want to reward users who has been following us from the beginning.
+          answer: We are trying to avoid Hackers and Scammers. Also we want to reward users who has been following us from the beginning.
     - name: Prepare Using My Ether Wallet
       questions:
         - question: Why can’t I see my balances when I unlock my wallet?
