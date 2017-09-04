@@ -114,7 +114,7 @@
 .tokens {
   padding: $large-padding-vertical 0;
   text-align: center;
-  background-color: #eee;
+  background-color: $grey-color-light;
 
   &__content {
     display: flex;
@@ -212,5 +212,16 @@
 
   &__title {
 
+  }
+}
+
+.mailchimp-modal {
+  padding: 30px;
+  width: 80%;
+  max-width: 500px;
+
+  &__title {
+    margin-bottom: 10px;
+    font-size: $font-md;
   }
 }

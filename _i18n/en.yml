@@ -1,10 +1,8 @@
 navigation:
-  - name: Whitepaper
-    url: /download/whitepaper.pdf
-  - name: About
-    url: "#about"
+  - name: Team
+    url: "/#team"
   - name: Talk to us
-    url: "#contact"
+    url: "/#contact"
 
 home:
   header:
@@ -59,6 +57,8 @@ home:
         url: https://join.slack.com/t/bicotoken/shared_invite/MjM1MDk4NDY1NjY1LTE1MDQ0NTAyMTItZWZjNDkwYzIyOA
       - name: Twitter
         url: https://twitter.com/BicoTeam
+  modal:
+    text: Register with your email and get the Table of Content of the book for free
 faq:
   categories:
     - name: About BICO

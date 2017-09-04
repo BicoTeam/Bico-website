@@ -15,6 +15,7 @@ $third-color:  #2ECC40;
 $text-color: #333;
 $link-color: #1b1b1b;
 $grey-color: #aaa;
+$grey-color-light: #eee;
 
 $font-xxl: 72px;
 $font-xl: 56px;
@@ -168,6 +169,11 @@ input[type="email"]:focus {
   flex: 1;
 }
 
+body.vanilla-modal .modal-hider {
+  position: absolute;
+  left: -99999em;
+}
+
 // Components & pages
 
 .navigation {
@@ -226,15 +232,20 @@ input[type="email"]:focus {
 
 .page {
 
-  @include container($container-padding);
-  margin-top: 60px;
+  margin-bottom: 60px;
 
-  &__header {
-    padding: 0 $container-padding;
+  &__title {
+    @include container($container-padding);
   }
 
+  &__header {
+    padding: 60px $container-padding;
+    margin-bottom: 60px;
+    background-color: $grey-color-light;
+  }
 
   &__content {
+    @include container($container-padding);
     padding: 0 $container-padding;
   }
 }
