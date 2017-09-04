@@ -28,13 +28,13 @@ home:
     title: Tokens distribution
     content:
       - name: BICO
-        value: //image
+        value: <img src="/assets/images/icon.png" class="bico">
       - name: Maximum token<br>in regulation
-        value: 555
+        value: 1 million
       - name: Per token in Pre-Sale
-        value: 555<br>ETH
+        value: 0.01 ETH
       - name: Per token
-        value: 555<br>ETH
+        value: 0.02 ETH
   team:
     title: The team
     members:
@@ -47,7 +47,7 @@ home:
       - name: Sofia<br>CHARALAMPIDOU
         src: /assets/images/photos/sofia.jpg
       - name: Carlos<br>BERNABEU JUAN
-        src: /assets/images/photos/paschalis.jpg
+        src: /assets/images/photos/carlos.jpg
   contact:
     title: Talk to us
     network:
@@ -60,6 +60,9 @@ home:
       - name: Twitter
         url: https://twitter.com/BicoTeam
         src: /assets/images/social/twitter.svg
+      - name: Github
+        url: https://github.com/BicoTeam
+        src: /assets/images/social/github.svg
   modal:
     text: Register with your email and get the Table of Content of the book for free
 faq:
