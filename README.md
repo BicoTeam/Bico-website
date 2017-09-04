@@ -35,10 +35,11 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add effects and animations
 - [x] Add token distribution section
 - [x] Add doorbell, analytics, mailchimp
+- [x] Fix doorbell
 - [ ] Make it responsive
 - [ ] Update the config files (pwa and jekyll) with domain names
 - [ ] Update the book design and add BICO logo
 - [ ] Remove useless code
-- [ ] Fix doorbell
+- [ ] Update all data
 - [ ] Add https
 - [ ] Deploy
