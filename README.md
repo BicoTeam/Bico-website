@@ -31,7 +31,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add last missing elements
 - [x] Build the FAQ page
 - [x] Add social icons
-- [ ] Add smoothscroll
+- [x] Add smoothscroll
 - [ ] Add effects and animations
 - [ ] Add token distribution section
 - [ ] Add doorbell, analytics, mailchimp

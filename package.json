@@ -49,6 +49,7 @@
   },
   "dependencies": {
     "normalize.css": "^7.0.0",
+    "smooth-scroll": "^12.1.4",
     "vanilla-modal": "^1.6.5"
   }
 }

@@ -1,5 +1,6 @@
 // JS imports
 import VanillaModal from 'vanilla-modal';
+import SmoothScroll from 'smooth-scroll';
 
 // CSS and SASS files
 import './index.scss';
@@ -21,5 +22,5 @@ const options = {
   onOpen: null,
   onClose: null,
 };
-
 const modal = new VanillaModal(options);
+const scroll = new SmoothScroll('a[href*="#"]');
