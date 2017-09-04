@@ -75,7 +75,9 @@ layout: default
     <h2 class="contact__title">{% t home.contact.title %}</h2>
     <div class="contact__social">
       {% for network in site.translations[site.lang].home.contact.network %}
-      <a href="{{ network.url }}" class="contact__network">{{ network.name }}</a>
+      <a href="{{ network.url }}" class="svg contact__network">
+        <object data="{{ network.src }}" width="150" height="150" type="image/svg+xml"></object>
+      </a>
       {% endfor %}
     </div>
   </div>

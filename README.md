@@ -30,9 +30,10 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add book illustration
 - [x] Add last missing elements
 - [x] Build the FAQ page
-- [ ] Add social icons
+- [x] Add social icons
 - [ ] Add smoothscroll
 - [ ] Add effects and animations
+- [ ] Add token distribution section
 - [ ] Add doorbell, analytics, mailchimp
 - [ ] Update the config files (pwa and jekyll) with domain names
 - [ ] Update the book design and add BICO logo
