@@ -120,8 +120,10 @@ h2 {
 
   &__title {
     color: $text-color !important;
-    font-size: $font-md;
-    font-weight: 900;
+    font-size: $font-xmd;
+    font-weight: 700;
+    font-family: $font-family-secondary;
+    text-transform: uppercase;
   }
 
   &__logo {
