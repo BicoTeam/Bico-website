@@ -34,6 +34,28 @@ $font-xs: 14px;
   margin: auto;
 }
 
+@mixin breakpoint($class) {
+  @if $class == xs {
+    @media (max-width: 767px) { @content; }
+  }
+
+  @else if $class == sm {
+    @media (min-width: 768px) { @content; }
+  }
+
+  @else if $class == md {
+    @media (min-width: 992px) { @content; }
+  }
+
+  @else if $class == lg {
+    @media (min-width: 1200px) { @content; }
+  }
+
+  @else {
+    @warn "Breakpoint mixin supports: xs, sm, md, lg";
+  }
+}
+
 
 // Global
 
@@ -69,9 +91,14 @@ h1, h2 {
 }
 
 h1 {
-  font-size: $font-xxl;
+  font-size: $font-xl;
   font-weight: 700;
   line-height: 1;
+
+  @include breakpoint(sm) {
+    font-size: $font-xxl;
+  }
+
 }
 
 h2 {
@@ -160,7 +187,12 @@ input[type="email"]:focus {
 }
 
 .container {
+
+  padding: 30px;
+
+  @include breakpoint(sm) {
     @include container($container-padding + $large-padding);
+  }
 }
 
 #mc_embed_signup_scroll {
