@@ -42,7 +42,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Update the config files (pwa and jekyll) with domain names and package.json
 - [x] Fix doorbell
 - [x] Remove useless code
-- [ ] Fix bugs (modal & page faq in prod)
+- [x] Fix bugs (modal & page faq in prod)
 - [ ] Update all data
 - [ ] Add https
 - [ ] Deploy

@@ -26,7 +26,7 @@ const options = {
   onClose: null,
 };
 const modal = new VanillaModal(options);
-const scroll = new SmoothScroll('a[href*="#"]');
+const scroll = new SmoothScroll('.smooth');
 
 window.sr = ScrollReveal({ viewOffset: { top: 0, right: 0, bottom: 100, left: 0 }, delay: 200 });
 sr.reveal('.book__title');
