@@ -12,7 +12,7 @@ module.exports = Merge(ProdConfig, {
       description: 'Everything you need for a successful ICO in the first ICO funded book',
       orientation: "portrait",
       display: "standalone",
-      start_url: ".",
+      start_url: "/",
       background_color: '#4848B4',
       icons: [
         {
