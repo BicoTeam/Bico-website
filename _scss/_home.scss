@@ -48,10 +48,6 @@
       font-size: $font-xmd;
   }
 
-  &__form {
-
-  }
-
   &__image {
     padding: 0;
     width: 80%;
@@ -79,14 +75,6 @@
   background-color: $secondary-color;
   color: #fff;
   padding: $large-padding-vertical 0;
-
-  &__title {
-
-  }
-
-  &__description {
-
-  }
 
   &__button {
     color: #fff;
@@ -164,14 +152,6 @@
       padding: 0;
     }
   }
-
-  &__title {
-
-  }
-
-  &__description {
-
-  }
 }
 
 
@@ -234,10 +214,6 @@
     filter: grayscale(1);
     max-width: 200px;
   }
-
-  &__name {
-
-  }
 }
 
 .contact {
@@ -266,9 +242,6 @@
     }
   }
 
-  &__title {
-
-  }
 }
 
 .mailchimp-modal {

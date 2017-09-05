@@ -40,8 +40,8 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Add particle.js
 - [x] Make it responsive
 - [x] Update the config files (pwa and jekyll) with domain names and package.json
-- [ ] Fix doorbell
-- [ ] Remove useless code
+- [x] Fix doorbell
+- [x] Remove useless code
 - [ ] Update all data
 - [ ] Add https
 - [ ] Deploy
