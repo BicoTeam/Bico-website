@@ -1,3 +1,7 @@
+#particles-js {
+  min-height: 80vh;
+}
+
 .header {
   @include container($container-padding);
 
@@ -9,6 +13,11 @@
   &__container {
     position: absolute;
     width: 100%;
+    min-height: 80vh;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
   }
 
   &__text {
