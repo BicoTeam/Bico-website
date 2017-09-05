@@ -98,10 +98,18 @@
   padding: $large-padding-vertical 0;
 
   &__row {
+
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: top;
+    padding: 30px;
+
+    @include breakpoint(sm) {
+      flex-direction: row;
+      padding: 0;
+    }
+
   }
 
   &__title {
@@ -146,9 +154,15 @@
 
   &__content {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 30px;
+
+    @include breakpoint(sm) {
+      flex-direction: row;
+      padding: 0;
+    }
   }
 
   &__title {
@@ -191,9 +205,15 @@
 
   &__members {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 30px;
+
+    @include breakpoint(sm) {
+      flex-direction: row;
+      padding: 0;
+    }
   }
 }
 
@@ -212,6 +232,7 @@
     width: 100%;
     height: auto;
     filter: grayscale(1);
+    max-width: 200px;
   }
 
   &__name {
@@ -234,9 +255,15 @@
 
   &__container {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 30px;
+
+    @include breakpoint(sm) {
+      flex-direction: row;
+      padding: 0;
+    }
   }
 
   &__title {
