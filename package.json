@@ -1,9 +1,9 @@
 {
-  "name": "Jekyll-webpack-boilerplate",
+  "name": "Bico-website",
   "version": "1.0.0",
-  "description": "A boilerplate with Jekyll and Webpack to make the most performant static websites",
+  "description": "Everything you need for a successful ICO in the first ICO funded book",
   "main": "src/index.js",
-  "repository": "git@github.com:sandoche/Jekyll-webpack-boilerplate.git",
+  "repository": "git@github.com:sandoche/Bico-website.git",
   "author": "Sandoche Adittane <sandoche@gmail.com>",
   "license": "MIT",
   "scripts": {

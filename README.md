@@ -39,7 +39,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Fix the bug with the book
 - [x] Add particle.js
 - [x] Make it responsive
-- [ ] Update the config files (pwa and jekyll) with domain names and package.json
+- [x] Update the config files (pwa and jekyll) with domain names and package.json
 - [ ] Fix doorbell
 - [ ] Remove useless code
 - [ ] Update all data

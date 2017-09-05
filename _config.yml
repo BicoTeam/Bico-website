@@ -4,14 +4,14 @@
 # You may also want to update /config/webpack.pwa.js in case you want to generate a Progressive Web App
 
 title: Bico
-email: your-email@example.com
+email: contact@bico.me
 description:  Everything you need for a successful ICO in the first ICO funded book
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://bico.me" # the base hostname & protocol for your site, e.g. http://example.com
 theme_color: '#4848B4'
 twitter_username: BicoTeam
 github_username:  BicoTeam
-author: Sandoche Adittane
+author: Bico Team
 logo: assets/images/large-logo.png
 twitter:
   username: BicoTeam
