@@ -6,6 +6,11 @@
   justify-content: space-between;
   align-items: center;
 
+  &__container {
+    position: absolute;
+    width: 100%;
+  }
+
   &__text {
     flex: 2;
     padding-top: 50px;

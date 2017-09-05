@@ -2,6 +2,7 @@
 import VanillaModal from 'vanilla-modal';
 import SmoothScroll from 'smooth-scroll';
 import ScrollReveal from 'scrollreveal';
+import 'particles.js';
 import 'vanilla-tilt';
 
 // CSS and SASS files
@@ -35,3 +36,8 @@ sr.reveal('.step', { duration: 500 }, 200);
 sr.reveal('.tokens__title');
 sr.reveal('.token', { duration: 500 }, 200);
 sr.reveal('.team');
+
+
+particlesJS.load('particles-js', '/particles.json', function() {
+  console.log('callback - particles.js config loaded');
+});
