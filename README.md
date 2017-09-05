@@ -38,7 +38,7 @@ If you like this project [Buy me a beer](https://paypal.me/kanbanote)
 - [x] Update the book design and add BICO logo
 - [x] Fix the bug with the book
 - [x] Add particle.js
-- [ ] Make it responsive
+- [x] Make it responsive
 - [ ] Update the config files (pwa and jekyll) with domain names and package.json
 - [ ] Fix doorbell
 - [ ] Remove useless code

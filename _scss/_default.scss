@@ -98,7 +98,6 @@ h1 {
   @include breakpoint(sm) {
     font-size: $font-xxl;
   }
-
 }
 
 h2 {
@@ -261,8 +260,12 @@ a.svg:after {
   }
 
   &__links {
-    display: flex;
-    flex-direction: row;
+    display: inline;
+
+    @include breakpoint(sm) {
+      display: flex;
+      flex-direction: row;
+    }
   }
 
   &__link {
@@ -287,15 +290,29 @@ a.svg:after {
 
   &__title {
     @include container($container-padding);
+
+    font-size: $font-xmd;
+    font-weight: 700;
+    line-height: 1;
+
+    @include breakpoint(sm) {
+      font-size: $font-xxl;
+    }
   }
 
   &__header {
     padding: 60px $container-padding;
     margin-bottom: 60px;
     background-color: $grey-color-light;
+    margin-top: 20px;
+
+    @include breakpoint(sm) {
+      margin-top: 0;
+    }
   }
 
   &__content {
+    overflow: hidden;
     @include container($container-padding);
     padding: 0 $container-padding;
   }
@@ -390,17 +407,24 @@ a.svg:after {
   }
 
   &__container {
-    @include container($container-padding);
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: center;
-    padding: 30px 0;
+
+    padding: 30px;
+
+    @include breakpoint(sm) {
+      @include container($container-padding);
+      display: flex;
+      flex-direction: row;
+      justify-content: space-between;
+      align-items: center;
+      padding: 30px 0;
+    }
   }
 
   &__link {
     font-weight: 500;
-    margin-left: 20px;
+    @include breakpoint(sm) {
+      margin-left: 20px;
+    }
   }
 }
 
