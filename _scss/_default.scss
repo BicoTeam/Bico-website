@@ -19,7 +19,7 @@ $grey-color-light: #eee;
 
 $font-xxl: 56px;
 $font-xl: 42px;
-$font-xmd: 36px;
+$font-xmd: 32px;
 $font-md: 22px;
 $font-body: 20px;
 $font-sm: 16px;
@@ -196,9 +196,13 @@ input[type="email"]:focus {
 
 #mc_embed_signup_scroll {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+  }
 }
 
 .mc-field-group {
