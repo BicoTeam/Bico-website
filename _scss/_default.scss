@@ -109,7 +109,7 @@ h2 {
 input[type="email"] {
   display: block;
   margin: 0;
-  width: 100%;
+  width: 95%;
   font-family: $font-family-primary;
   font-size: 18px;
   -webkit-appearance: none;
@@ -123,7 +123,7 @@ input[type="email"] {
   -ms-border-radius: none;
   -o-border-radius: none;
   border-radius: none;
-  padding: 10px 0;
+  padding: 10px;
   border: solid 1px gainsboro;
   -webkit-transition: box-shadow 0.3s, border 0.3s;
   -moz-transition: box-shadow 0.3s, border 0.3s;
@@ -134,8 +134,9 @@ input[type="email"] {
   margin-top: 1px;
 
   @include breakpoint(sm) {
-    padding: 10px 10px;
+    width: 100%;
   }
+
 }
 input[type="email"]:focus {
   outline: none;
@@ -211,10 +212,15 @@ input[type="email"]:focus {
 
 .mc-field-group {
   flex: 1;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
   width: 100%;
 
   @include breakpoint(sm) {
-    width: auto;
+    flex-direction: column;
+    justify-content: flex-start;
+    align-items: flex-start;
   }
 }
 
