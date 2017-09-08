@@ -254,3 +254,18 @@
     font-size: $font-md;
   }
 }
+
+.mailchimp__button {
+  width: 100%;
+  @include breakpoint(sm) {
+    width: auto;
+  }
+}
+
+.mailchimp__clear {
+  width: 100%;
+
+  @include breakpoint(sm) {
+    width: auto;
+  }
+}

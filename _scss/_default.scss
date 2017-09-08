@@ -123,7 +123,7 @@ input[type="email"] {
   -ms-border-radius: none;
   -o-border-radius: none;
   border-radius: none;
-  padding: 10px;
+  padding: 10px 0;
   border: solid 1px gainsboro;
   -webkit-transition: box-shadow 0.3s, border 0.3s;
   -moz-transition: box-shadow 0.3s, border 0.3s;
@@ -132,6 +132,10 @@ input[type="email"] {
 	background: #fff;
   height: 35px;
   margin-top: 1px;
+
+  @include breakpoint(sm) {
+    padding: 10px 10px;
+  }
 }
 input[type="email"]:focus {
   outline: none;
@@ -207,6 +211,11 @@ input[type="email"]:focus {
 
 .mc-field-group {
   flex: 1;
+  width: 100%;
+
+  @include breakpoint(sm) {
+    width: auto;
+  }
 }
 
 body.vanilla-modal .modal-hider {
@@ -235,11 +244,16 @@ a.svg:after {
   @include container($container-padding);
 
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-start;
   margin-top: 20px;
   padding-bottom: 10px;
+
+  @include breakpoint(sm) {
+    flex-direction: row;
+    align-items: center;
+  }
 
   &__branding {
       display: flex;
@@ -279,6 +293,10 @@ a.svg:after {
     padding-bottom: 16px;
     border-bottom: 1px solid #fff;
     font-weight: 700;
+
+    &:first-child {
+      margin-left: 0;
+    }
 
     &:hover {
       border-bottom: 1px solid $primary-color;
