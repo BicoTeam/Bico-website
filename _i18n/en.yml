@@ -31,9 +31,9 @@ home:
         value: <img src="/assets/images/icon.png" class="bico">
       - name: Maximum token<br>in regulation
         value: 2.5 million
-      - name: Per token in Pre-Sale
+      - name: Per token<br>in Pre-Sale
         value: 0.00002941 ETH
-      - name: Per token
+      - name: Per token<br>&nbsp;
         value: 0.00005882 ETH
   team:
     title: The team
