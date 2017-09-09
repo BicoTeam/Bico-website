@@ -3,6 +3,9 @@ layout: page
 title: Whitepaper
 permalink: /whitepaper/
 ---
+
+Work in progress, this is not the final version.
+
 Everything you need for a successful ICO in the **world's first ICO funded book**
 
 ## Business Plan
