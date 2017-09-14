@@ -225,7 +225,7 @@ input[type="email"]:focus {
 }
 
 body.vanilla-modal .modal-hider {
-  position: absolute;
+  position: fixed;
   left: -99999em;
 }
 
