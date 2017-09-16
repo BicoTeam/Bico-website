@@ -34,6 +34,7 @@ sr.reveal('.book__description');
 sr.reveal('.how__row');
 sr.reveal('.step', { duration: 500 }, 200);
 sr.reveal('.tokens__title');
+sr.reveal('.tokens__description');
 sr.reveal('.token', { duration: 500 }, 200);
 sr.reveal('.team');
 
