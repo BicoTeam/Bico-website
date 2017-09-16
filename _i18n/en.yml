@@ -19,11 +19,11 @@ home:
   how:
     categories:
       - title: "What's the story?"
-        description: At the beginning we were trying to do an ICO for another project, one that aims to help mother nature (don't worry you'll know what it is soon), and we realised that there was not enough information about how to do it right, until now!. There are no tutorials available, only a few blogposts that never go into details. We are a team of technical people and we like to make informed decissions and clear tasks. We decided to try an ICO ourselves and to write everything that we went through in a book. Why a book? because books are the greatest sources of human knowledge, and every human being has a natural thrust for knowledge. Our ultimate goal is to teach how to do an ICO properly and also not screw our future goal, which will be to help out planting trees. We would love for you to learn with us in the process.
+        description: At the beginning we were trying to do an ICO for another project, one that aims to help mother nature (don't worry you'll know what it is soon), and we realised that there was not enough information about how to do it right, until now!. There are no tutorials available, only a few blogposts that never go into details. <br> <br>We are a team of technical people and we like to make informed decissions and clear tasks, so we decided to try an ICO ourselves and to write everything that we went through in a book. Why a book? Because books are the greatest sources of human knowledge, and every human being has a natural thrust for knowledge. Our ultimate goal is to teach how to do an ICO properly and also not screw our future goal, which will be to help out planting trees. 
       - title: "What's BICO?"
         description:  "BICO represents big things. BICO is the world's first token used to fund a book. You can think of BICO as a learning mechanism. Buying BICO will not only allow you to immerse yourself in the world of ICOs, but you will also be supporting a democratic and distributed shared of knowledge. You will transform ICOs so they'll become accessible to everybody and perceived as a regular way of funding your own startup."
       - title: "What's the plan?"
-        description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate on contacting us. These are the steps we will follow."
+        description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate on contacting us. We would love for you to learn with us in the process. These are the steps we will follow."
     steps:
       - "Investigate, learn, read, open and honest communication"
       - Offer something in return for the invested money… maybe a comprehensive book? A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need
@@ -41,8 +41,38 @@ home:
         value: 0.00004056 ETH
       - name: Per token<br>&nbsp;
         value: 0.00008112 ETH
+  timeline: 
+      title: Roadmap of the Actions Plan
+      content:
+        - date: 1st August 
+          value: We come together to build a new project that will help with reforestation of the planet.
+        - date: 5th August  
+          value: We look for funding sources. We realised the lack of information about ICOs. We don't want to screw up our startup. The idea of BICO appears.
+        - date: 15th August
+          value: Full weekend Hackathon to make the first skeletons of website and whitepaper. First tests with Smart Contracts in Ethereum. Final logo design.
+        - date: 20th August
+          value: Set up of mailing and subscription system.
+        - date: 3rd September 
+          value: Communities in social media set up.
+        - date: 18th September
+          value: Active communications starts. We go public.
+        - date: ?? October
+          value: Private Pre-Sale Event only for subscriptors.
+        - date: 10th October
+          value: Official Crowdsale starts.
+        - date: 7th Novemeber
+          value: Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
+        - date: 8th November
+          value: Guidebook creation starts.
+        - date: 8th May
+          value: Within a maximum period of 6 months the book will be done. Start delivering the guidebook to elegible investors.
+        - date: 15th May
+          value: All investors, who have bought 1500 BICOs or more, have received the book.
+        - date: 16th May
+          value: Book is open and accesible to the public at a higher price than the one from the crowdsale. 
   team:
     title: The team
+    description: We are group of technical and business people with Computer Sciences, Industrial Engeneering and Business Management degrees. We are not a closed group, Would you like to appear on this page as an advisor? Just send us an email! Would you like to collaborate? Do you have cool feedback to improve the Whitepaper, the Smart Contract, the Guidebook..? You can open issues in GitHub, make PullRequests or contact us through any social media!
     members:
       - name: Sandoche<br>ADITTANE
         src: /assets/images/photos/sandoche.jpg
