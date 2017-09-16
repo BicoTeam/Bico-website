@@ -183,6 +183,21 @@
   }
 }
 
+.calendar {
+
+  padding: $large-padding-vertical 0;
+
+  &__title {
+    text-align: center;
+    margin-bottom: 20px;
+  }
+
+  &__timeline {
+    overflow-y: scroll;
+  }
+}
+
+
 .team {
   @include container($container-padding);
   padding: $large-padding-vertical 0;

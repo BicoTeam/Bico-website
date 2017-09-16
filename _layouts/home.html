@@ -65,6 +65,27 @@ layout: default
   </div>
 </section>
 
+<section class="calendar" id="calendar">
+  <div class="container">
+    <h2 class="calendar__title">{% t home.timeline.title %}</h2>
+  </div>
+  <div class="calendar__timeline">
+    <ul class="timeline" id="timeline">
+      <li></li>
+      {% for event in site.translations[site.lang].home.timeline.content %}
+      <li class="li {{ event.status }}">
+        <div class="timestamp">
+          <span class="date">{{ event.date }}<span>
+        </div>
+        <div class="status">
+          <h4>{{ event.value }}</h4>
+        </div>
+      </li>
+      {% endfor %}
+     </ul>
+  </div>
+</section>
+
 <section class="team" id="team">
   <h2 class="team__title">{% t home.team.title %}</h2>
   <p class="team__description">{% t home.team.description %}</p>
