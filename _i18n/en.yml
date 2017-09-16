@@ -17,12 +17,13 @@ home:
     description: Yeah, you read right, we are doing an ICO and we will teach you how to do one… from A to Z, all included, everything <br>We are already working on it and will be constantly updating it, have a look at the table of contents
     button: Book Preview
   how:
-    title: What's the story?
-    description: At the beginning we were trying to do an ICO for another project, one that aims to help mother nature (don't worry you'll know what it is soon), and we realised that there was not enough information about how to do it right, until now!. There are no tutorials available, only a few blogposts that never go into details. We are a team of technical people and we like to make informed decissions and clear tasks. We decided to try an ICO ourselves and to write everything that we went through in a book. Why a book? because books are the greatest sources of human knowledge, and every human being has a natural thrust for knowledge. Our ultimate goal is to teach how to do an ICO properly and also not screw our future goal, which will be to help out planting trees. We would love for you to learn with us in the process. 
-    title: What's BICO?
-    description:  "BICO represents big things. BICO is the world's first token used to fund a book. You can think of BICO as a learning mechanism. Buying BICO will not only allow you to immerse yourself in the world of ICOs, but you will also be supporting a democratic and distributed shared of knowledge. You will transform ICOs so they'll become accessible to everybody and perceived as a regular way of funding your own startup."
-    title: What's the plan?
-    description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate on contacting us. These are the steps we will follow."
+    categories:
+      - title: "What's the story?"
+        description: At the beginning we were trying to do an ICO for another project, one that aims to help mother nature (don't worry you'll know what it is soon), and we realised that there was not enough information about how to do it right, until now!. There are no tutorials available, only a few blogposts that never go into details. We are a team of technical people and we like to make informed decissions and clear tasks. We decided to try an ICO ourselves and to write everything that we went through in a book. Why a book? because books are the greatest sources of human knowledge, and every human being has a natural thrust for knowledge. Our ultimate goal is to teach how to do an ICO properly and also not screw our future goal, which will be to help out planting trees. We would love for you to learn with us in the process.
+      - title: "What's BICO?"
+        description:  "BICO represents big things. BICO is the world's first token used to fund a book. You can think of BICO as a learning mechanism. Buying BICO will not only allow you to immerse yourself in the world of ICOs, but you will also be supporting a democratic and distributed shared of knowledge. You will transform ICOs so they'll become accessible to everybody and perceived as a regular way of funding your own startup."
+      - title: "What's the plan?"
+        description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate on contacting us. These are the steps we will follow."
     steps:
       - "Investigate, learn, read, open and honest communication"
       - Offer something in return for the invested money… maybe a comprehensive book? A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need

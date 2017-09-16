@@ -34,10 +34,12 @@ layout: default
 </section>
 
 <section class="how">
-  <div class="how__row">
-    <h2 class="how__title">{% t home.how.title %}</h2>
-    <p class="how__description">{% t home.how.description %}</p>
+  {% for category in site.translations[site.lang].home.how.categories %}
+  <div class="how__row how__row--description">
+    <h2 class="how__title">{{ category.title }}</h2>
+    <p class="how__description">{{ category.description }}</p>
   </div>
+  {% endfor %}
   <div class="how__row">
     {% for step in site.translations[site.lang].home.how.steps %}
     <div class="step">
