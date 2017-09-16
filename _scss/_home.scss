@@ -199,6 +199,7 @@
 
 
 .team {
+  background-color: $grey-color-light;
   @include container($container-padding);
   padding: $large-padding-vertical 0;
   text-align: center;
