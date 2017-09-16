@@ -53,6 +53,7 @@ layout: default
 <section class="tokens">
   <div class="container">
     <h2 class="tokens__title">{% t home.tokens.title %}</h2>
+    <p class="tokens__description">{% t home.tokens.description %}</p>
     <div class="tokens__content">
       {% for token in site.translations[site.lang].home.tokens.content %}
       <div class="token">
@@ -66,6 +67,7 @@ layout: default
 
 <section class="team" id="team">
   <h2 class="team__title">{% t home.team.title %}</h2>
+  <p class="team__description">{% t home.team.description %}</p>
   <div class="team__members">
     {% for member in site.translations[site.lang].home.team.members %}
     <div class="member" data-tilt data-tilt-glare data-tilt-max-glare="0.8">
