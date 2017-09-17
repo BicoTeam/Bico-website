@@ -60,26 +60,3 @@
 .li.complete .status h4 {
   color: #4848B4;
 }
-
-@media (min-device-width: 320px) and (max-device-width: 700px) {
-  .timeline {
-    list-style-type: none;
-    display: block;
-  }
-
-  .li {
-    transition: all 200ms ease-in;
-    display: flex;
-    width: inherit;
-  }
-
-  .timestamp {
-    width: 100px;
-  }
-
-  .status:before {
-    left: -8%;
-    top: 30%;
-    transition: all 200ms ease-in;
-  }
-}
