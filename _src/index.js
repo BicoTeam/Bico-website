@@ -36,7 +36,8 @@ sr.reveal('.step', { duration: 500 }, 200);
 sr.reveal('.tokens__title');
 sr.reveal('.tokens__description');
 sr.reveal('.token', { duration: 500 }, 200);
+sr.reveal('calendar__title');
+sr.reveal('calendar__timeline');
 sr.reveal('.team__container');
-
 
 particlesJS.load('particles-js', '/particles.json', function() {});
