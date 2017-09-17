@@ -185,7 +185,9 @@
 
 .calendar {
 
-  padding: $large-padding-vertical 0;
+  padding-top: $large-padding-vertical;
+  padding-left: 0;
+  padding-right: 0;
 
   &__title {
     text-align: center;
@@ -193,14 +195,14 @@
   }
 
   &__timeline {
-    overflow-y: scroll;
+    overflow-x: scroll;
+    padding-bottom: $large-padding-vertical;
   }
 }
 
 
 .team {
   background-color: $grey-color-light;
-  @include container($container-padding);
   padding: $large-padding-vertical 0;
   text-align: center;
 

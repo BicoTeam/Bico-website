@@ -87,15 +87,17 @@ layout: default
 </section>
 
 <section class="team" id="team">
-  <h2 class="team__title">{% t home.team.title %}</h2>
-  <p class="team__description">{% t home.team.description %}</p>
-  <div class="team__members">
-    {% for member in site.translations[site.lang].home.team.members %}
-    <div class="member" data-tilt data-tilt-glare data-tilt-max-glare="0.8">
-      <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}">
-      <p class="member__name">{{ member.name }}</p>
+  <div class="container team__container">
+    <h2 class="team__title">{% t home.team.title %}</h2>
+    <p class="team__description">{% t home.team.description %}</p>
+    <div class="team__members">
+      {% for member in site.translations[site.lang].home.team.members %}
+      <div class="member">
+        <img class="member__photo" src="{{ member.src }}" alt="{{ member.name }}"  data-tilt data-tilt-glare data-tilt-max-glare="0.8">
+        <p class="member__name">{{ member.name }}</p>
+      </div>
+      {% endfor %}
     </div>
-    {% endfor %}
   </div>
 </section>
 
