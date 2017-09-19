@@ -135,7 +135,7 @@ faq:
           answer: "The ICO launches at noon 00:00 UTC on 10th of October, 2017 and closes 1t 00:00 UTC on 10th of November"
         - question: Will you have a Pre-Sale? When will it be?
           answer: Yes there will be a Pre-Sale event taking place in the previous days before the ICO. The exact date will be noticed only via newsletter to the people who have subscribed. During the Pre-Sale you will be able to get extra bonus tokens.
-        - question: why not publicly announce the date of the Pre-Sale?
+        - question: Why not publicly announce the date of the Pre-Sale?
           answer: We are trying to avoid Hackers and Scammers. Also we want to reward users who have been following us from the beginning.
     - name: Prepare Using My Ether Wallet
       questions:
@@ -144,7 +144,7 @@ faq:
         - question: Why can’t I see the account I have just created in the blockchain explorer (e.g., Etherchain, Etherscan)?
           answer: Only active accounts are visible in a blockchain explorer. Once you have transferred some ETH into the  account, it should be visible.
         - question: How does MyEtherWallet actually work?
-          answer: "Please check this page: <a style='text-decoration: underline;' href='https://myetherwallet.groovehq.com/knowledge_base/topics/how-does-myetherwallet-actually-work'>MyEtherWallet Wiki</a>"
+          answer: "Please check this page: <a style='text-decoration: underline;' target='_blank' href='https://myetherwallet.groovehq.com/knowledge_base/topics/how-does-myetherwallet-actually-work'>MyEtherWallet Wiki</a>"
         - question: I am trying to unlock my wallet but it keeps freezing / hanging
           answer: "Sorry you are having trouble. Decrypting the keystore files is an intensive process and doesn't enjoy being done in Javascript. We recommend: <br>1.Using Google Chrome.<br>2.Clicking continue when you see the unresponsive error alert pop up.<br>3.Closing other intensive programs open (a lot of browser tabs, video games, etc.).<br>The combination of the above typically eliminates the problem. If it doesn't, please contact us and include your browser and OS so we can advise from there"
         - question: Why am I seeing two different versions of my Ethereum address--one with uppercase letters and one with lowercase letters?
