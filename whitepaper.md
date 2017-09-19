@@ -15,12 +15,12 @@ BICO is the world's first ICO funded book that will teach entrepreneurs how get 
 
 > *Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family* ---- Kofi Annan
 
-Our vision is that ICOs will be accesible to everybody and perceived as a regular way of funding your own startup. Our mission is to bring clearness, knowledge and information to the world of cryptocurrencies.
+Our vision is that ICOs will be accessible to everybody and perceived as a regular way of funding your own startup. Our mission is to bring clearness, knowledge and information to the world of cryptocurrencies.
 
   
 ## Team
 
-We are a team of technical people and we like to make informed decissions and convey to clear tasks.
+We are a team of technical people and we like to make informed decisions and convey to clear tasks.
 
 We decided to try an ICO ourselves and to write everything that we are going through in a book. Our ultimate goal is to learn how to do an ICO properly so we won't screw up our future goal, which is to help out planting trees. We will be learning on the way and we hope you will join us in the process. 
 
@@ -84,7 +84,7 @@ In the following lines you can see a glimpse of the action plan. The Timeline re
 - **15th May:** All investors, who have bought 1500 BICOs or more, have received the book.
 
 
-- **16th May:** Book is open and accesible to the public at a higher price than the one from the crowdsale. 
+- **16th May:** Book is open and accessible to the public at a higher price than the one from the crowdsale. 
 
 
 
