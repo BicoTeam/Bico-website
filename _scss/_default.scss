@@ -334,6 +334,10 @@ a.svg:after {
     @include container($container-padding);
     padding: 0 $container-padding;
   }
+
+  &__container {
+    max-width: 800px;
+  }
 }
 
 .blog {

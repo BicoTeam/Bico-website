@@ -103,6 +103,7 @@ home:
     advisors:
       - name: Farbod SARAF
         src: /assets/images/photos/farbod.jpg
+        role: Public relation expert
         linkedin: https://www.linkedin.com/in/farbodsaraf/
         website: http://farbodsaraf.com/
   contact:
