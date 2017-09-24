@@ -23,12 +23,12 @@ home:
       - title: "What's BICO?"
         description:  "BICO represents big things. BICO is the world's first token used to fund a book. You can think of BICO as a learning mechanism. Buying BICO will not only allow you to immerse yourself in the world of ICOs, but you will also be supporting a democratic and distributed knowledge sharing platform. You will help transform ICOs so they become accessible to everybody and perceived as a regular way of funding your own startup."
       - title: "What's the plan?"
-        description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate to contact us. We would love for you to learn with us in the process. These are the steps we will follow."
+        description: "We, together with you, will bring clearness, knowledge and information to the world of cryptocurrencies by following a token utility model, where the token is used to purchase services or products in the platform, in our case, the ICO guidebook. This ensures that the token has an inherent value and there will be sustained demand for the token once the book is launched. We encourage a continuous, public, constructive and critical feedback about BICO and the book, so please don't hesitate to contact us. We would love for you to learn with us in the process. These are the steps we will follow."
     steps:
       - "Investigate, learn, read, open and honest communication"
       - Offer something in return for the invested money… maybe a comprehensive book? A book to teach you how we did it. Not only tell you how, we will guide you step by step, with code repositories, examples and everything you will need
       - Send you the book as the return on your investment so you can safely and without obstacles do the ICO you need for your own project
-      - The book will also be available after the crowdsale, so the project will keep growing afterwards. Maybe translating this into a more valuable token
+      - The book will also be available after the crowdsale, so the project will keep growing afterwards keeping up with the demand, translating this into a more valuable token.
   tokens:
     title: Token distribution
     description: "Because you have a lot of questions in this new Ethereum and cryptocurrency ecosystem, because you want a world where knowledge is evenly distributed and accessible, because you want to support us so we can all learn together, invest now and join the BICO community. Everybody who buys 1500 BICOs or more by the end of the crowdsale will be able to exchange the tokens to get the guidebook. Only people who have subscribed and joined the community will get access to the Pre-Sale event, where 10% of the number of tokens in regulation will be sold at half the price."
@@ -68,13 +68,13 @@ home:
           value: Official Crowdsale starts.
         - date: 20th November
           value: Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
-        - date: 8th November
+        - date: 21st November
           value: Guidebook creation starts.
-        - date: 8th May
-          value: Within a maximum period of 6 months the book will be done. Start delivering the guidebook to elegible investors.
-        - date: 15th May
+        - date: 20th May
+          value: Within a maximum period of 6 months the book will be done. Start delivering the guidebook to eligible investors.
+        - date: 30th May
           value: All investors, who have bought 1500 BICOs or more, have received the book.
-        - date: 16th May
+        - date: 1st June
           value: Book is open and accessible to the public at a higher price than the one from the crowdsale.
         - date: Next
           value: Second ICO in order to build a book marketplace for writers who want to fund their books through ICOs
