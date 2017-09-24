@@ -101,9 +101,13 @@ home:
         linkedin: https://www.linkedin.com/in/paschalis-tsolakidis-81b97945/
     title_advisors: Advisors
     advisors:
+      - name: Joshua AGUILAR
+        src: /assets/images/photos/joshua.jpg
+        role: Best-seller author. CEO at earth technologies
+        linkedin: https://www.linkedin.com/in/joshua-aguilar-71b21382/
       - name: Farbod SARAF
         src: /assets/images/photos/farbod.jpg
-        role: Public relation expert
+        role: Public relations expert
         linkedin: https://www.linkedin.com/in/farbodsaraf/
         website: http://farbodsaraf.com/
   contact:
