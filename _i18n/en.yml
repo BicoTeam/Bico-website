@@ -82,14 +82,27 @@ home:
     members:
       - name: Sandoche<br>ADITTANE
         src: /assets/images/photos/sandoche.jpg
-      - name: Patricia<br>MAYO TEJEDOR
-        src: /assets/images/photos/patricia.jpg
-      - name: Paschalis<br>TSOLAKIDIS
-        src: /assets/images/photos/paschalis.jpg
-      - name: Sofia<br>CHARALAMPIDOU
-        src: /assets/images/photos/sofia.jpg
+        role: Designer and developper
+        linkedin: https://www.linkedin.com/in/sandoche
+        website: http://www.sandoche.com
       - name: Carlos<br>BERNABEU JUAN
         src: /assets/images/photos/carlos.jpg
+        role: Communication expert
+        linkedin: https://www.linkedin.com/in/carlosbernabeujuan
+      - name: Patricia<br>MAYO TEJEDOR
+        src: /assets/images/photos/patricia.jpg
+        role: Project Manager
+        linkedin: https://www.linkedin.com/in/patriciamayotejedor
+      - name: Paschalis<br>TSOLAKIDIS
+        src: /assets/images/photos/paschalis.jpg
+        role: Technical lead
+        linkedin: https://www.linkedin.com/in/paschalis-tsolakidis-81b97945/
+    title_advisors: Advisors
+    advisors:
+      - name: Farbod<br>SARAF
+        src: /assets/images/photos/farbod.jpg
+        linkedin: https://www.linkedin.com/in/farbodsaraf/
+        website: http://farbodsaraf.com/
   contact:
     title: Get in touch
     network:
