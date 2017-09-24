@@ -241,6 +241,25 @@
     filter: grayscale(1);
     max-width: 200px;
   }
+
+  &__name {
+    margin-bottom: 10px;
+    font-size: $font-sm;
+  }
+
+  &__role {
+    font-size: $font-xs;
+    margin: 0;
+  }
+
+  &__network {
+    margin: 0 10px !important;
+  }
+
+  &__social {
+    margin-top: 10px;
+  }
+
 }
 
 .contact {

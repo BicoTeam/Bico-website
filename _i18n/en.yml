@@ -76,30 +76,32 @@ home:
           value: All investors, who have bought 1500 BICOs or more, have received the book.
         - date: 16th May
           value: Book is open and accessible to the public at a higher price than the one from the crowdsale.
+        - date: Next
+          value: Second ICO in order to build a book marketplace for writers who want to fund their books through ICOs
   team:
     title: The team
     description: We are group of technical and business people with Computer Sciences, Industrial Engeneering and Business Management degrees. We are not a closed group. Would you like to appear on this page as an advisor? Just send us an email! Would you like to collaborate? Do you have cool feedback to improve the Whitepaper, the Smart Contract, the Guidebook..? You can open issues in GitHub, make PullRequests or contact us through any social media!
     members:
-      - name: Sandoche<br>ADITTANE
+      - name: Sandoche ADITTANE
         src: /assets/images/photos/sandoche.jpg
         role: Designer and developper
         linkedin: https://www.linkedin.com/in/sandoche
         website: http://www.sandoche.com
-      - name: Carlos<br>BERNABEU JUAN
+      - name: Carlos BERNABEU JUAN
         src: /assets/images/photos/carlos.jpg
         role: Communication expert
         linkedin: https://www.linkedin.com/in/carlosbernabeujuan
-      - name: Patricia<br>MAYO TEJEDOR
+      - name: Patricia MAYO TEJEDOR
         src: /assets/images/photos/patricia.jpg
         role: Project Manager
         linkedin: https://www.linkedin.com/in/patriciamayotejedor
-      - name: Paschalis<br>TSOLAKIDIS
+      - name: Paschalis TSOLAKIDIS
         src: /assets/images/photos/paschalis.jpg
         role: Technical lead
         linkedin: https://www.linkedin.com/in/paschalis-tsolakidis-81b97945/
     title_advisors: Advisors
     advisors:
-      - name: Farbod<br>SARAF
+      - name: Farbod SARAF
         src: /assets/images/photos/farbod.jpg
         linkedin: https://www.linkedin.com/in/farbodsaraf/
         website: http://farbodsaraf.com/
