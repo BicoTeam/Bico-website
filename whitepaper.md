@@ -97,12 +97,11 @@ The goal of this ICO is to raise 47200$. We want to be as transparent as we can,
 
 | Expenses             		| People | Man Hours | € / hours | Total |
 |-------------------------|--------|-----------|-----------|-------|
-| Writing the Book     		| 5      | 350       | 20        | 35000 |
+| Writing the Book     		| 4      | 350       | 20        | 35000 |
 | Design and Branding  		| 1      | 50        | 20        | 1000  |
 | Web Page             		| 2      | 50        | 20        | 2000  |
-| Community Support    		| 2      | 30        | 20        | 1200  |
+| Communication and Networking    		| 2      | 30        | 20        | 4200  |
 | Engineering development | 5      | 50        | 20        | 5000  |
-| White Paper				    	| 2      | 75        | 20        | 3000  |
 | TOTAL             		  |        |           |           | 47200 |
 
 
