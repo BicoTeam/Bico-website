@@ -22,7 +22,7 @@ Our vision is that ICOs will be accessible to everybody and perceived as a regul
 
 We are a team of technical people and we like to make informed decisions and convey to clear tasks.
 
-We decided to try an ICO ourselves and to write everything that we are going through in a book. Our ultimate goal is to learn how to do an ICO properly so we won't screw up our future goal, which is to help out planting trees. We will be learning on the way and we hope you will join us in the process.
+We decided to try an ICO ourselves and to write everything that we are going through in a book. Our ultimate goal is to learn how to do an ICO properly so we won't screw up our future goal, which is to help out planting trees. We are contacting the best and most successful ICOs to learn from them and apply their advices directly in BICO, and of course, all their tips and stories will be included in the book as case studies. You might also be wondering whether or not we are such good writers as to publish a guidebook, but do not worry, because our advisors have already written best-sellers and will make sure that we launch the best possible book.
 
 ## Business Opportunity
 
