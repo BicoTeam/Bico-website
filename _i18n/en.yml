@@ -105,6 +105,16 @@ home:
         src: /assets/images/photos/joshua.jpg
         role: Best-seller author. CEO at earth technologies
         linkedin: https://www.linkedin.com/in/joshua-aguilar-71b21382/
+      - name: Alexandre LUYET
+        src: /assets/images/photos/alexandre.jpg
+        role: Entrepreneur. Marketing and communication expert
+        linkedin: https://www.linkedin.com/in/alexluyet/
+        website: https://www.conexkt.world/alexandre-luyet/
+      - name: Johann RODUIT
+        src: /assets/images/photos/johann.jpg
+        role: Partner and <br>consultant
+        linkedin: https://www.linkedin.com/in/roduitjohann/
+        website: https://www.conexkt.world/johann-roduit/
       - name: Farbod SARAF
         src: /assets/images/photos/farbod.jpg
         role: Digital Strategist. Public relations and networking
