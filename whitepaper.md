@@ -15,7 +15,7 @@ BICO is the world's first ICO funded book that will teach entrepreneurs how get 
 
 > *Knowledge is power. Information is liberating. Education is the premise of progress, in every society, in every family* ---- Kofi Annan
 
-Our vision is that ICOs will be accessible to everybody and perceived as a regular way of funding your own startup. Our mission is to bring clearness, knowledge and information to the world of cryptocurrencies.
+Our vision is that ICOs will be accessible to everybody and perceived as a regular way of funding your own startup. Our mission is to bring clarity, knowledge and information to the world of cryptocurrencies.
 
 
 ## Team
@@ -30,7 +30,7 @@ Over half a billion dollars has been raised through so-called "Initial Coin Offe
 
 Unlike with the traditional Venture Capitalist system where you lose six months to a year raising money, here you don’t lose any time, entrepreneurs can focus in what they are really good at, building their projects, their products and their startups. Moreover, when you get money from a Venture Capitalist you get money from one person or perhaps one team.  Whereas with token crowdfunding, you can get thousands of engaged supporters who are extremely motivated to see your company succeed. They are your early adopters, they are your evangelists.
 
-It is to expect then that in a near future every startup will try to carry out an ICO, but **there is a lack of clearness and information**, first because it is relatively new, and second because of the complex rules in the world of cryptocurrencies.  By following a *token utility model*, where the token is used to purchase our ICO guidebook in the platform we will ensure that BICO has an inherent value and there will be sustained demand for the token once the book is launched.
+It is to expect then that in a near future every startup will try to carry out an ICO, but **there is a lack of clarity and information**, first because it is relatively new, and second because of the complex rules in the world of cryptocurrencies.  By following a *token utility model*, where the token is used to purchase our ICO guidebook in the platform we will ensure that BICO has an inherent value and there will be sustained demand for the token once the book is launched.
 
 ### BIG impact:
 We are the world's first ICO funded book, and that comes with big meaning and responsibility. We love what BICO stands for and what BICO represents.
