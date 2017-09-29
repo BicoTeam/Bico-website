@@ -86,6 +86,8 @@ In the following lines you can see a glimpse of the action plan. The Timeline re
 
 - **1st June:** Book is open and accessible to the public at a higher price than the one from the crowdsale.
 
+- **Next:** Long term goal is to make a second ICO in order to build a book marketplace for writers who want to fund their books through ICOs. We would like to encourage the 'arts' and 'writers' to get money from ICO.
+
 
 
 ## Economic and Financial Plan. Use of Funds
