@@ -139,8 +139,11 @@
     font-weight: 900;
   }
 
-  &__text {
-
+  &__title {
+    font-size: $font-xl;
+    margin: 0;
+    padding: 0;
+    font-weight: 900;
   }
 }
 
