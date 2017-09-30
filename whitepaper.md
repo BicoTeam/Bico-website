@@ -90,7 +90,7 @@ In the following lines you can see a glimpse of the action plan. The Timeline re
 
 
 
-## Economic and Financial Plan. Use of Funds
+## <span id="tokenterms">Economic and Financial Plan. Use of Funds</span>
 
 
 Regarding the smart contract and the token distribution, 5 million BICO tokens will be created. From those 5 million, half will be retained and kept within the team as a reserve. The other 2.5 millions will be available for sale in regulation during the ICO. A few days before the official crowdsale starts, a Pre-Sale event will take place with BONUS tokens, where 10% of the available BICOs will be at half the price.
