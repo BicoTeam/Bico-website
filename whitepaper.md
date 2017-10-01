@@ -107,7 +107,7 @@ The goal of this ICO is to raise 47200$. We want to be as transparent as we can,
 | TOTAL             		  |        |           |           | 47200 |
 
 
-The price of the ebook will be of 1500 BICO tokens. After the crowdsale the book will be available in popular ebook platforms like Amazon. 
+The price of the ebook will be of 1500 BICO tokens. After the crowdsale the book will be available in popular ebook platforms like Amazon around $25. 
 Please note that final prices might vary slightly as Ethereum value changes constantly.
 
 ## Disclaimer
