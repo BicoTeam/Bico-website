@@ -107,7 +107,8 @@ The goal of this ICO is to raise 47200$. We want to be as transparent as we can,
 | TOTAL             		  |        |           |           | 47200 |
 
 
-People who have participated in the crowdsale buying 1500 BICOs or more will be able to get the guidebook in return for their investment. After all books have been delivered, the book will be available for sale for the whole market at a price of 2500 BICOs. Please note that final prices might vary slightly as Ethereum value changes constantly.
+The price of the ebook will be of 1500 BICO tokens. After the crowdsale the book will be available in popular ebook platforms like Amazon. 
+Please note that final prices might vary slightly as Ethereum value changes constantly.
 
 ## Disclaimer
 
