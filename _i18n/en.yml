@@ -6,7 +6,7 @@ navigation:
 
 footer:
   press: Press release
-  press_url: /downloads/PressKit.pdf
+  press_url: /downloads/Press_Release_Oct2017.pdf
 
 home:
   header:
@@ -92,7 +92,7 @@ home:
     members:
       - name: Sandoche ADITTANE
         src: /assets/images/photos/sandoche.jpg
-        role: Designer and developper
+        role: Designer and developer
         linkedin: https://www.linkedin.com/in/sandoche
         website: http://www.sandoche.com
       - name: Carlos BERNABEU JUAN
