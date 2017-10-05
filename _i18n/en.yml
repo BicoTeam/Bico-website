@@ -5,8 +5,8 @@ navigation:
     url: "/#contact"
 
 footer:
-  press: Press release
-  press_url: /downloads/Press_Release_Oct2017.pdf
+  press: Media kit
+  press_url: /media
 
 home:
   header:
