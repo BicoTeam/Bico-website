@@ -4,10 +4,6 @@ navigation:
   - name: Talk to us
     url: "/#contact"
 
-footer:
-  press: Media kit
-  press_url: /media
-
 home:
   header:
     headline: The world's first ICO funded book
