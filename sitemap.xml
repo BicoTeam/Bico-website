@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>https://bico.me/</loc>
+<loc>http://localhost:4000/</loc>
 </url>
 <url>
-<loc>https://bico.me/media/</loc>
+<loc>http://localhost:4000/media/</loc>
 </url>
 <url>
-<loc>https://bico.me/faq/</loc>
+<loc>http://localhost:4000/faq/</loc>
 </url>
 <url>
-<loc>https://bico.me/whitepaper/</loc>
+<loc>http://localhost:4000/whitepaper/</loc>
 </url>
 <url>
-<loc>https://bico.me/downloads/onepager.pdf</loc>
+<loc>http://localhost:4000/downloads/onepager.pdf</loc>
 <lastmod>2017-10-05T10:13:20+02:00</lastmod>
 </url>
 <url>
-<loc>https://bico.me/downloads/press_release_oct2017.pdf</loc>
+<loc>http://localhost:4000/downloads/press_release_oct2017.pdf</loc>
 <lastmod>2017-10-05T10:18:28+02:00</lastmod>
 </url>
 </urlset>
