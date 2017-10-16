@@ -127,6 +127,9 @@ home:
   contact:
     title: Get in touch
     network:
+      - name: Reddit
+        url: https://www.reddit.com/r/Bico/
+        src: /assets/images/social/reddit.svg      
       - name: Bitcointalk
         url: https://bitcointalk.org/index.php?topic=2220258.msg22407724#msg22407724
         src: /assets/images/social/bitcoin.svg
