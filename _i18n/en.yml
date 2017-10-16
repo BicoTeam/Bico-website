@@ -41,10 +41,8 @@ home:
         value: <img src="/assets/images/icon.png" class="bico">
       - name: Maximum tokens<br>in regulation
         value: 2.5 million
-      - name: Per BICO token<br>in Pre-Sale
-        value: 0.00004056 ETH
       - name: Per BICO token<br>&nbsp; in Crowdsale
-        value: 0.00008112 ETH
+        value: 0.000059 ETH
   timeline:
       title: Roadmap of the Action Plan
       content:
