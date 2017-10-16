@@ -94,7 +94,7 @@ Regarding the smart contract and the token distribution, 5 million BICO tokens w
 
 The goal of this ICO is to raise 47200$. We want to be as transparent as we can, that's why we are disclosing the way we are going to be using the funds. Let us build from trust. Let us build for true transparency. This is obviously a piece of text in a website and you will have to trust us, but please do, we are genuinely trying to help :)
 
-| Expenses             		| People | Man Hours | € / hours | Total |
+| Expenses             		| People | Man Hours | $ / hour  | Total |
 |-------------------------|--------|-----------|-----------|-------|
 | Writing the Book     		| 4      | 350       | 20        | 35000 |
 | Design and Branding  		| 1      | 50        | 20        | 1000  |
