@@ -66,25 +66,22 @@ In the following lines you can see a glimpse of the action plan. The Timeline re
 - **18th September:** Active communication starts. We go public.
 
 
-- **?? October:** Private Pre-Sale Event only for subscriptors.
-
-
 - **20th October:** Official Crowdsale starts.
 
 
-- **20th Novemeber:** Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
+- **20th December:** Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
 
 
-- **21st November:** Guidebook creation starts.
+- **21st December:** Guidebook creation starts.
 
 
-- **20th May:** Within a maximum period of 6 months the book will be finished. Start delivering the guidebook to eligible investors.
+- **20th June:** Within a maximum period of 6 months the book will be finished. Start delivering the guidebook to eligible investors.
 
 
-- **30th May:** All investors, who have bought 1500 BICOs or more, have received the book.
+- **30th June:** All investors, who have bought 1500 BICOs or more, have received the book.
 
 
-- **1st June:** Book is open and accessible to the public at a higher price than the one from the crowdsale.
+- **1st July:** Book is open and accessible to the public at a higher price than the one from the crowdsale.
 
 - **Next:** Long term goal is to make a second ICO in order to build a book marketplace for writers who want to fund their books through ICOs. We would like to encourage the 'arts' and 'writers' to get money from ICO.
 
@@ -107,7 +104,7 @@ The goal of this ICO is to raise 47200$. We want to be as transparent as we can,
 | TOTAL             		  |        |           |           | 47200 |
 
 
-The price of the ebook will be of 1500 BICO tokens. After the crowdsale the book will be available in popular ebook platforms like Amazon around $25. 
+The price of the ebook will be of 1500 BICO tokens. After the crowdsale the book will be available in popular ebook platforms like Amazon around $25.
 Please note that final prices might vary slightly as Ethereum value changes constantly.
 
 ## Disclaimer

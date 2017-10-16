@@ -66,19 +66,17 @@ home:
         - date: 18th September
           value: Beginning of active communications start. We go public.
           status: complete
-        - date: ?? October
-          value: Private Pre-Sale Event only for subscriptors.
         - date: 20th October
           value: Official Crowdsale starts.
-        - date: 20th November
+        - date: 20th December
           value: Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
-        - date: 21st November
+        - date: 21st December
           value: Guidebook creation starts.
-        - date: 20th May
+        - date: 20th June
           value: Within a maximum period of 6 months the book will be done. Start delivering the guidebook to eligible investors.
-        - date: 30th May
+        - date: 30th June
           value: All investors, who have bought 1500 BICOs or more, have received the book.
-        - date: 1st June
+        - date: 1st July
           value: Book is open and accessible to the public at a higher price than the one from the crowdsale.
         - date: Next
           value: Long term goal is to make a second ICO in order to build a book marketplace for writers who want to fund their books through ICOs. We would like to encourage the 'arts' and 'writers' to get money from ICO.
@@ -129,7 +127,7 @@ home:
     network:
       - name: Reddit
         url: https://www.reddit.com/r/Bico/
-        src: /assets/images/social/reddit.svg      
+        src: /assets/images/social/reddit.svg
       - name: Bitcointalk
         url: https://bitcointalk.org/index.php?topic=2220258.msg22407724#msg22407724
         src: /assets/images/social/bitcoin.svg
