@@ -319,3 +319,12 @@
     width: auto;
   }
 }
+
+.token-form {
+  display: flex;
+  flex-direction: row;
+}
+
+.token__warning {
+  font-size: $font-sm;
+}

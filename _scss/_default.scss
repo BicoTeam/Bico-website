@@ -106,7 +106,7 @@ h2 {
 }
 
 
-input[type="email"] {
+input[type="email"], .input {
   display: block;
   margin: 0;
   width: 95%;
@@ -128,7 +128,7 @@ input[type="email"] {
   }
 
 }
-input[type="email"]:focus {
+input[type="email"]:focus, .input:focus {
   outline: none;
   border: solid 1px $primary-color;
   box-shadow: none;

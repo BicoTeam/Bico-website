@@ -8,14 +8,8 @@ layout: default
       <div class="header__text">
         <h1 class="header__uvp">{% t home.header.headline %}</h1>
         <h2 class="header__subline">{% t home.header.subline %}</h2>
-        <div class="countdown">
-          <p class="countdown__text">{% t home.header.counter %}</p>
-        </div>
         <div class="header__form">
-          {% include mailchimp.html %}
-          <div class="header__register">
-            {% t home.header.register %}
-          </div>
+          {% include tokensales.html %}
         </div>
       </div>
       <div class="header__illustration">
