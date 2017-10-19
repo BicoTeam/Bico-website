@@ -2,6 +2,7 @@
 import VanillaModal from 'vanilla-modal';
 import SmoothScroll from 'smooth-scroll';
 import ScrollReveal from 'scrollreveal';
+import Clipboard from 'clipboard';
 import 'particles.js';
 import 'vanilla-tilt';
 
@@ -44,5 +45,7 @@ if(window.location.pathname === '/') {
   sr.reveal('.team__container');
 
   particlesJS.load('particles-js', '/particles.json', function() {});
+
+  new Clipboard('.button--copy');
 
 }
