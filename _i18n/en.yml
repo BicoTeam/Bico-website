@@ -66,6 +66,7 @@ home:
           status: complete
         - date: 20th October
           value: Official Crowdsale starts.
+          status: complete
         - date: 20th December
           value: Crowdsale finishes successfully. It is possible to trade BICOs in exchange lists.
         - date: 21st December
