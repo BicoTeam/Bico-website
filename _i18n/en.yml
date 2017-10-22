@@ -121,6 +121,11 @@ home:
         role: Digital Strategist. Public relations and networking
         linkedin: https://www.linkedin.com/in/farbodsaraf/
         website: http://farbodsaraf.com/
+    title_partners: As seen in
+    partners:
+      - name: I love crypto!
+        url: https://crypto.info/
+        src: https://crypto.info/award/crypto2.png
   contact:
     title: Get in touch
     network:
