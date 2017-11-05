@@ -88,14 +88,15 @@ home:
         role: Designer and developer
         linkedin: https://www.linkedin.com/in/sandoche
         website: http://www.sandoche.com
-      - name: Carlos BERNABEU JUAN
-        src: /assets/images/photos/carlos.jpg
-        role: Communication expert
-        linkedin: https://www.linkedin.com/in/carlosbernabeujuan
       - name: Patricia MAYO TEJEDOR
         src: /assets/images/photos/patricia.jpg
         role: Project Manager
         linkedin: https://www.linkedin.com/in/patriciamayotejedor
+      - name: Farbod SARAF
+        src: /assets/images/photos/farbod.jpg
+        role: Digital Strategist. Public relations and networking
+        linkedin: https://www.linkedin.com/in/farbodsaraf/
+        website: http://farbodsaraf.com/        
       - name: Paschalis TSOLAKIDIS
         src: /assets/images/photos/paschalis.jpg
         role: Technical lead
@@ -116,11 +117,6 @@ home:
         role: Partner and <br>consultant
         linkedin: https://www.linkedin.com/in/roduitjohann/
         website: https://www.conexkt.world/johann-roduit/
-      - name: Farbod SARAF
-        src: /assets/images/photos/farbod.jpg
-        role: Digital Strategist. Public relations and networking
-        linkedin: https://www.linkedin.com/in/farbodsaraf/
-        website: http://farbodsaraf.com/
     title_partners: As seen in
     partners:
       - name: I love crypto!
