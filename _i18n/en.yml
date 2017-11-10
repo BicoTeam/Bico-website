@@ -96,7 +96,7 @@ home:
         src: /assets/images/photos/farbod.jpg
         role: Digital Strategist. Public relations and networking
         linkedin: https://www.linkedin.com/in/farbodsaraf/
-        website: http://farbodsaraf.com/        
+        website: http://farbodsaraf.com/
       - name: Paschalis TSOLAKIDIS
         src: /assets/images/photos/paschalis.jpg
         role: Technical lead
@@ -122,6 +122,9 @@ home:
       - name: I love crypto!
         url: https://crypto.info/
         src: https://crypto.info/award/crypto2.png
+      - name: ICO & Crowdsale Calendar
+        url: https://wiserico.com/
+        src: https://wiserico.com/logo.png
   contact:
     title: Get in touch
     network:
