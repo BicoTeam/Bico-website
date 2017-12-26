@@ -246,6 +246,11 @@ a.svg:after {
   margin-top: 20px;
   padding-bottom: 10px;
 
+  &__floating {
+    position: fixed;
+    width: 100%;
+  }
+
   @include breakpoint(sm) {
     flex-direction: row;
     align-items: center;
