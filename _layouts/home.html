@@ -8,9 +8,7 @@ layout: default
       <div class="header__text">
         <h1 class="header__uvp">{% t home.header.headline %}</h1>
         <h2 class="header__subline">{% t home.header.subline %}</h2>
-        <div class="header__form">
-          {% include tokensales.html %}
-        </div>
+        <p class="countdown__text">{% t home.header.counter %}</p>
       </div>
       <div class="header__illustration">
         <img src="/assets/images/book.png" class="header__image" alt="" data-tilt data-tilt-glare data-tilt-max-glare="0.8" data-tilt-scale="1.05">
@@ -18,104 +16,3 @@ layout: default
     </header>
   </div>
 </div>
-
-<section class="book">
-  <div class="container">
-    <h2 class="book__title">{% t home.book.title %}</h2>
-    <p class="book__description">{% t home.book.description %}</p>
-    <a href="#modal-1" data-modal-open class="book__button button button--secondary">{% t home.book.button %}</a>
-  </div>
-</section>
-
-<section class="how">
-  {% for category in site.translations[site.lang].home.how.categories %}
-  <div class="how__row how__row--description">
-    <h2 class="how__title">{{ category.title }}</h2>
-    <p class="how__description">{{ category.description }}</p>
-  </div>
-  {% endfor %}
-  <div class="how__row">
-    {% for step in site.translations[site.lang].home.how.steps %}
-    <div class="step">
-      <p class="step__number">0{{ forloop.index }}.</p>
-        <p class="step__title">{{ step.title }}</p>
-      <p class="step__text">{{ step.description }}</p>
-    </div>
-    {% endfor %}
-  </div>
-</section>
-
-<section class="tokens">
-  <div class="container">
-    <h2 class="tokens__title">{% t home.tokens.title %}</h2>
-    <p class="tokens__description">{% t home.tokens.description %}</p>
-    <div class="tokens__content">
-      {% for token in site.translations[site.lang].home.tokens.content %}
-      <div class="token">
-        <p class="token__value">{{ token.value }}</p>
-        <h3 class="token__name">{{ token.name }}</h3>
-      </div>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
-<section class="calendar" id="calendar">
-  <div class="container">
-    <h2 class="calendar__title">{% t home.timeline.title %}</h2>
-  </div>
-  <div class="calendar__timeline">
-    <ul class="timeline" id="timeline">
-      <li></li>
-      {% for event in site.translations[site.lang].home.timeline.content %}
-      <li class="li {{ event.status }}">
-        <div class="timestamp">
-          <span class="date">{{ event.date }}<span>
-        </div>
-        <div class="status">
-          <h4>{{ event.value }}</h4>
-        </div>
-      </li>
-      {% endfor %}
-     </ul>
-  </div>
-</section>
-
-<section class="team" id="team">
-  <div class="container team__container">
-    <h2 class="team__title">{% t home.team.title %}</h2>
-    <p class="team__description">{% t home.team.description %}</p>
-    <div class="team__members">
-      {% for member in site.translations[site.lang].home.team.members %}
-        {% include member.html %}
-      {% endfor %}
-    </div>
-    <h2 class="team__title">{% t home.team.title_advisors %}</h2>
-    <div class="team__members">
-      {% for member in site.translations[site.lang].home.team.advisors %}
-        {% include member.html %}
-      {% endfor %}
-    </div>
-    <h2 class="team__title">{% t home.team.title_partners %}</h2>
-    <div class="team__members team__partners">
-      {% for partner in site.translations[site.lang].home.team.partners %}
-         <a href="{{ partner.url }}" target="_blank"><img src="{{ partner.src }}" border=0 title="{{ partner.name }}" alt="{{ partner.name }}"></a>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
-<section class="contact" id="contact">
-  <div class="container contact__container">
-    <h2 class="contact__title">{% t home.contact.title %}</h2>
-    <div class="contact__social">
-      {% for network in site.translations[site.lang].home.contact.network %}
-      <a href="{{ network.url }}" class="svg contact__network" target="_blank">
-        <object data="{{ network.src }}" width="75" height="75" type="image/svg+xml"></object>
-      </a>
-      {% endfor %}
-    </div>
-  </div>
-</section>
-
-{% include mail-modal.html %}
